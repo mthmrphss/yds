@@ -1,0 +1,73 @@
+{
+  "version": "1.0",
+  "universal_routine": {
+    "title": "4 Adımlı Evrensel Çözüm Rutini",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Çapa Bul (Anchor)",
+        "desc": "Cümledeki zaman zarfını, bağlacı veya özne/nesne ilişkisini tespit et."
+      },
+      {
+        "step": 2,
+        "name": "Yapı Çöz (Structure)",
+        "desc": "Aktif/Pasif durumunu, tekil/çoğul uyumunu ve zaman eksenini belirle."
+      },
+      {
+        "step": 3,
+        "name": "Çeldirici Ele (Elimination)",
+        "desc": "Aşırı genelleme yapan (all, never), bağlam dışı veya zamansız şıkları ele."
+      },
+      {
+        "step": 4,
+        "name": "Doğrula (Verify)",
+        "desc": "Doğru şıkkı yerine koyup cümlenin anlam bütünlüğünü kontrol et."
+      }
+    ]
+  },
+  "time_management": {
+    "title": "Yeşil / Sarı / Kırmızı Zaman Yönetimi Sistemi (180 Dakika)",
+    "zones": [
+      {
+        "zone": "Yeşil Bölge",
+        "time": "0 - 60. Dakika",
+        "questions": "1 - 36 (Kelime, Gramer, Cloze, Cümle Tamamlama)",
+        "target": "Soru başı 75-90 sn. Hızlı ve kararlı ilerleme."
+      },
+      {
+        "zone": "Sarı Bölge",
+        "time": "60 - 150. Dakika",
+        "questions": "37 - 62 (Çeviri ve 5 Okuma Parçası)",
+        "target": "Metin başı 15-18 dk. En yüksek puan ayrım bloğu."
+      },
+      {
+        "zone": "Kırmızı Bölge",
+        "time": "150 - 180. Dakika",
+        "questions": "63 - 80 (Diyalog, Restatement, Paragraf) + 10 dk Kontrol",
+        "target": "Akış soruları ve optik işaretleme kontrolü."
+      }
+    ]
+  },
+  "question_type_tactics": [
+    {
+      "type": "vocabulary",
+      "name": "Kelime Soruları",
+      "tactic": "Önce boşluğun gerektirdiği sözcük türünü (isim, fiil, sıfat) tespit et. Ardından kelimenin aldığı edata veya nesneyle kurduğu eşdizime (collocation) bak."
+    },
+    {
+      "type": "grammar",
+      "name": "Gramer Soruları",
+      "tactic": "Seçeneklere bakmadan önce cümlede bir zaman çapası (time anchor) ara. Zaman bağlacı varsa 'will' engeline ve Past Perfect önceliğine dikkat et."
+    },
+    {
+      "type": "reading",
+      "name": "Okuma Parçaları",
+      "tactic": "Önce 4 soru kökünü hızlıca tara, ne aradığını bilerek parçayı oku. Ana fikir (main idea) için ilk ve son cümlelere odaklan."
+    },
+    {
+      "type": "translation",
+      "name": "Çeviri Soruları",
+      "tactic": "İngilizce cümlenin ana fiilini (Main Verb) ve öznesini bul. Şıklarda sadece ana fiilin doğru Türkçe karşılığına bakarak 3 şıkkı ilk 10 saniyede ele."
+    }
+  ]
+}

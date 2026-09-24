@@ -1,0 +1,886 @@
+{
+  "version": "1.0",
+  "total_verbs": 110,
+  "phrasal_verbs": [
+    {
+      "id": "pv-001",
+      "verb": "account for",
+      "turkish_meaning": "açıklamak, sorumlu olmak; oranına karşılık gelmek",
+      "formal_synonym": "explain, constitute, represent",
+      "example_sentence": "Renewable energy accounts for roughly thirty percent of total national production.",
+      "preposition": "for"
+    },
+    {
+      "id": "pv-002",
+      "verb": "abide by",
+      "turkish_meaning": "kurala veya kanuna uymak, riayet etmek",
+      "formal_synonym": "comply with, adhere to, obey",
+      "example_sentence": "All participating nations must strictly abide by the terms of the climate accord.",
+      "preposition": "by"
+    },
+    {
+      "id": "pv-003",
+      "verb": "act on",
+      "turkish_meaning": "gereğini yapmak, tavsiye doğrultusunda hareket etmek",
+      "formal_synonym": "follow, implement",
+      "example_sentence": "The government decided to act on the recommendations of the scientific advisory panel.",
+      "preposition": "on"
+    },
+    {
+      "id": "pv-004",
+      "verb": "adhere to",
+      "turkish_meaning": "bağlı kalmak, sadık kalmak, uymak",
+      "formal_synonym": "comply with, follow",
+      "example_sentence": "Researchers must strictly adhere to international ethical standards during clinical trials.",
+      "preposition": "to"
+    },
+    {
+      "id": "pv-005",
+      "verb": "back up",
+      "turkish_meaning": "desteklemek, doğrulamak; yedeklemek",
+      "formal_synonym": "support, substantiate, verify",
+      "example_sentence": "The researcher produced extensive empirical data to back up her controversial hypothesis.",
+      "preposition": "up"
+    },
+    {
+      "id": "pv-006",
+      "verb": "break down",
+      "turkish_meaning": "bozulmak, çökmek; parçalara ayırarak analiz etmek",
+      "formal_synonym": "decompose, collapse, analyze",
+      "example_sentence": "Enzymes in the digestive tract break down complex molecules into simpler nutrients.",
+      "preposition": "down"
+    },
+    {
+      "id": "pv-007",
+      "verb": "break out",
+      "turkish_meaning": "aniden patlak vermek (savaş, yangın, salgın)",
+      "formal_synonym": "erupt, commence suddenly",
+      "example_sentence": "An infectious epidemic broke out in the overcrowded refugee settlement.",
+      "preposition": "out"
+    },
+    {
+      "id": "pv-008",
+      "verb": "break through",
+      "turkish_meaning": "engeli aşmak, büyük bir buluş/ilerleme kaydetmek",
+      "formal_synonym": "overcome, advance",
+      "example_sentence": "Scientists hope to break through current limitations in quantum computing architecture.",
+      "preposition": "through"
+    },
+    {
+      "id": "pv-009",
+      "verb": "bring about",
+      "turkish_meaning": "sebep olmak, meydana getirmek, yol açmak",
+      "formal_synonym": "cause, induce, generate",
+      "example_sentence": "The industrial revolution brought about radical transformations in urban lifestyles.",
+      "preposition": "about"
+    },
+    {
+      "id": "pv-010",
+      "verb": "bring up",
+      "turkish_meaning": "çocuk yetiştirmek; bir konuyu gündeme getirmek",
+      "formal_synonym": "raise, mention, introduce",
+      "example_sentence": "The delegate brought up the urgent matter of water scarcity during the plenary session.",
+      "preposition": "up"
+    },
+    {
+      "id": "pv-011",
+      "verb": "call for",
+      "turkish_meaning": "gerektirmek, talep etmek, çağrıda bulunmak",
+      "formal_synonym": "require, demand, necessitate",
+      "example_sentence": "The economic crisis calls for immediate intervention by central fiscal authorities.",
+      "preposition": "for"
+    },
+    {
+      "id": "pv-012",
+      "verb": "call off",
+      "turkish_meaning": "iptal etmek, sonlandırmak",
+      "formal_synonym": "cancel, abandon",
+      "example_sentence": "Organizers had to call off the outdoor symposium due to hazardous meteorological conditions.",
+      "preposition": "off"
+    },
+    {
+      "id": "pv-013",
+      "verb": "carry on",
+      "turkish_meaning": "devam ettirmek, sürdürmek",
+      "formal_synonym": "continue, proceed, maintain",
+      "example_sentence": "Despite severe financial constraints, the laboratory carried on its cancer research.",
+      "preposition": "on"
+    },
+    {
+      "id": "pv-014",
+      "verb": "carry out",
+      "turkish_meaning": "yürütmek, uygulamak, icra etmek",
+      "formal_synonym": "conduct, execute, perform",
+      "example_sentence": "Medical scientists carried out a rigorous series of randomized controlled experiments.",
+      "preposition": "out"
+    },
+    {
+      "id": "pv-015",
+      "verb": "catch up with",
+      "turkish_meaning": "yakalamak, aynı seviyeye gelmek",
+      "formal_synonym": "reach the same level, overtake",
+      "example_sentence": "Developing economies are striving to catch up with advanced technological standards.",
+      "preposition": "with"
+    },
+    {
+      "id": "pv-016",
+      "verb": "clear up",
+      "turkish_meaning": "açıklığa kavuşturmak, gidermek, aydınlatmak",
+      "formal_synonym": "clarify, resolve",
+      "example_sentence": "The subsequent forensic report helped clear up initial confusion regarding the incident.",
+      "preposition": "up"
+    },
+    {
+      "id": "pv-017",
+      "verb": "come across",
+      "turkish_meaning": "tesadüfen karşılaşmak, denk gelmek",
+      "formal_synonym": "encounter, discover unexpectedly",
+      "example_sentence": "Archaeologists came across remarkably preserved Roman pottery during recent excavations.",
+      "preposition": "across"
+    },
+    {
+      "id": "pv-018",
+      "verb": "come down with",
+      "turkish_meaning": "hastalığa yakalanmak",
+      "formal_synonym": "contract, succumb to",
+      "example_sentence": "Several laboratory assistants came down with mild respiratory symptoms after exposure.",
+      "preposition": "with"
+    },
+    {
+      "id": "pv-019",
+      "verb": "come up with",
+      "turkish_meaning": "yeni bir fikir/çözüm üretmek, ortaya atmak",
+      "formal_synonym": "devise, propose, invent",
+      "example_sentence": "Engineers came up with an ingenious mechanism to filter microplastics from ocean currents.",
+      "preposition": "with"
+    },
+    {
+      "id": "pv-020",
+      "verb": "comply with",
+      "turkish_meaning": "kurallara veya düzenlemelere uymak",
+      "formal_synonym": "conform to, abide by",
+      "example_sentence": "Pharmaceutical corporations must comply with stringent national hygiene regulations.",
+      "preposition": "with"
+    },
+    {
+      "id": "pv-021",
+      "verb": "cope with",
+      "turkish_meaning": "başa çıkmak, üstesinden gelmek",
+      "formal_synonym": "manage, handle, overcome",
+      "example_sentence": "Coastal cities must develop resilient defenses to cope with escalating sea level rise.",
+      "preposition": "with"
+    },
+    {
+      "id": "pv-022",
+      "verb": "count on",
+      "turkish_meaning": "güvenmek, bel bağlamak",
+      "formal_synonym": "rely on, depend upon",
+      "example_sentence": "Economists cannot always count on historical trends when forecasting volatile market shifts.",
+      "preposition": "on"
+    },
+    {
+      "id": "pv-023",
+      "verb": "cut down on",
+      "turkish_meaning": "azaltmak, kısmak",
+      "formal_synonym": "reduce, curtail, diminish",
+      "example_sentence": "Industries are legally required to cut down on carbon emissions over the coming decade.",
+      "preposition": "on"
+    },
+    {
+      "id": "pv-024",
+      "verb": "deal with",
+      "turkish_meaning": "ele almak, ilgilenmek, başa çıkmak",
+      "formal_synonym": "handle, address, manage",
+      "example_sentence": "The sociological study deals with the psychological impacts of prolonged urban isolation.",
+      "preposition": "with"
+    },
+    {
+      "id": "pv-025",
+      "verb": "derive from",
+      "turkish_meaning": "-den türemek, -den kaynaklanmak",
+      "formal_synonym": "originate, stem from",
+      "example_sentence": "Many contemporary English medical terms derive from ancient Greek and Latin roots.",
+      "preposition": "from"
+    },
+    {
+      "id": "pv-026",
+      "verb": "dispose of",
+      "turkish_meaning": "elden çıkarmak, bertaraf etmek, atmak",
+      "formal_synonym": "discard, eliminate, get rid of",
+      "example_sentence": "Nuclear power facilities face immense challenges when seeking to safely dispose of radioactive waste.",
+      "preposition": "of"
+    },
+    {
+      "id": "pv-027",
+      "verb": "draw on",
+      "turkish_meaning": "-den faydalanmak, yararlanmak, kaynak olarak kullanmak",
+      "formal_synonym": "utilize, exploit, make use of",
+      "example_sentence": "Philosophers often draw on classical literature to formulate contemporary ethical models.",
+      "preposition": "on"
+    },
+    {
+      "id": "pv-028",
+      "verb": "drop out of",
+      "turkish_meaning": "okulu/programı bırakmak, ayrılmak",
+      "formal_synonym": "abandon, withdraw from",
+      "example_sentence": "Targeted scholarship funds reduced the rate of students who drop out of higher education.",
+      "preposition": "of"
+    },
+    {
+      "id": "pv-029",
+      "verb": "embark on",
+      "turkish_meaning": "yeni bir işe/girişime başlamak",
+      "formal_synonym": "commence, initiate, undertake",
+      "example_sentence": "The research university embarked on an ambitious cross-border renewable energy initiative.",
+      "preposition": "on"
+    },
+    {
+      "id": "pv-030",
+      "verb": "end up",
+      "turkish_meaning": "sonuçlanmak, kendini beklenmedik bir durumda bulmak",
+      "formal_synonym": "result in, finish as",
+      "example_sentence": "Without proper regulation, artificial intelligence development could end up exacerbating societal inequalities.",
+      "preposition": "up"
+    },
+    {
+      "id": "pv-031",
+      "verb": "engage in",
+      "turkish_meaning": "meşgul olmak, yer almak, girişmek",
+      "formal_synonym": "participate in, undertake",
+      "example_sentence": "Diplomats refused to engage in negotiations until formal ceasefire agreements were met.",
+      "preposition": "in"
+    },
+    {
+      "id": "pv-032",
+      "verb": "fall behind",
+      "turkish_meaning": "geride kalmak, ayak uyduramamak",
+      "formal_synonym": "lag, trail",
+      "example_sentence": "Schools without internet access quickly fall behind in implementing modern pedagogical tools.",
+      "preposition": "behind"
+    },
+    {
+      "id": "pv-033",
+      "verb": "figure out",
+      "turkish_meaning": "anlamak, çözmek, kavramak",
+      "formal_synonym": "comprehend, solve, deduce",
+      "example_sentence": "Geneticists worked for decades to figure out the molecular mechanisms governing cellular ageing.",
+      "preposition": "out"
+    },
+    {
+      "id": "pv-034",
+      "verb": "get along with",
+      "turkish_meaning": "biriyle iyi geçinmek, uyum sağlamak",
+      "formal_synonym": "cooperate, be harmonious with",
+      "example_sentence": "Colleagues who get along with one another tend to demonstrate higher collaborative productivity.",
+      "preposition": "with"
+    },
+    {
+      "id": "pv-035",
+      "verb": "get rid of",
+      "turkish_meaning": "kurtulmak, yok etmek, bertaraf etmek",
+      "formal_synonym": "eliminate, dispose of, eradicate",
+      "example_sentence": "Public health agencies made concerted efforts to get rid of standing stagnant water to curb malaria.",
+      "preposition": "of"
+    },
+    {
+      "id": "pv-036",
+      "verb": "give in",
+      "turkish_meaning": "teslim olmak, boyun eğmek, pes etmek",
+      "formal_synonym": "yield, succumb, surrender",
+      "example_sentence": "The government refused to give in to the extreme demands made by the insurgent group.",
+      "preposition": "in"
+    },
+    {
+      "id": "pv-037",
+      "verb": "give rise to",
+      "turkish_meaning": "yol açmak, sebep olmak, doğurmak",
+      "formal_synonym": "cause, trigger, produce",
+      "example_sentence": "Uncontrolled urban sprawl has given rise to profound infrastructural and environmental deficits.",
+      "preposition": "to"
+    },
+    {
+      "id": "pv-038",
+      "verb": "give up",
+      "turkish_meaning": "bırakmak, vazgeçmek, terk etmek",
+      "formal_synonym": "abandon, surrender, renounce",
+      "example_sentence": "Patients who give up smoking significantly reduce their prospective risk of cardiovascular disorders.",
+      "preposition": "up"
+    },
+    {
+      "id": "pv-039",
+      "verb": "go through",
+      "turkish_meaning": "zorlu bir süreçten geçmek, yaşamak; incelemek",
+      "formal_synonym": "experience, undergo, examine",
+      "example_sentence": "The country went through profound constitutional crises before stabilizing its parliamentary democracy.",
+      "preposition": "through"
+    },
+    {
+      "id": "pv-040",
+      "verb": "hold up",
+      "turkish_meaning": "geciktirmek, alıkoymak; dayanmak",
+      "formal_synonym": "delay, impede, sustain",
+      "example_sentence": "Logistical bottlenecks at major ports held up international deliveries for nearly three months.",
+      "preposition": "up"
+    },
+    {
+      "id": "pv-041",
+      "verb": "keep up with",
+      "turkish_meaning": "hızına yetişmek, ayak uydurmak",
+      "formal_synonym": "maintain pace with, match",
+      "example_sentence": "Legal frameworks often struggle to keep up with the exponential velocity of technological innovation.",
+      "preposition": "with"
+    },
+    {
+      "id": "pv-042",
+      "verb": "lay off",
+      "turkish_meaning": "işten çıkarmak (ekonomik sebeplerle)",
+      "formal_synonym": "dismiss, terminate employment",
+      "example_sentence": "Due to falling quarterly revenues, the automotive conglomerate had to lay off hundreds of technicians.",
+      "preposition": "off"
+    },
+    {
+      "id": "pv-043",
+      "verb": "lead to",
+      "turkish_meaning": "yol açmak, ile sonuçlanmak",
+      "formal_synonym": "result in, cause, prompt",
+      "example_sentence": "Excessive consumption of saturated fats frequently leads to chronic arterial inflammation.",
+      "preposition": "to"
+    },
+    {
+      "id": "pv-044",
+      "verb": "look down on",
+      "turkish_meaning": "hor görmek, küçümsemek",
+      "formal_synonym": "despise, scorn, condescend",
+      "example_sentence": "Intellectual elitism often causes specialists to look down on traditional folk knowledge systems.",
+      "preposition": "on"
+    },
+    {
+      "id": "pv-045",
+      "verb": "look forward to",
+      "turkish_meaning": "dört gözle beklemek",
+      "formal_synonym": "anticipate with pleasure",
+      "example_sentence": "Astronomers eagerly look forward to receiving data transmitted by the deep-space telescope.",
+      "preposition": "to"
+    },
+    {
+      "id": "pv-046",
+      "verb": "look into",
+      "turkish_meaning": "araştırmak, incelemek, soruşturmak",
+      "formal_synonym": "investigate, examine, scrutinize",
+      "example_sentence": "A parliamentary committee was appointed to look into allegations of systemic corporate corruption.",
+      "preposition": "into"
+    },
+    {
+      "id": "pv-047",
+      "verb": "look up to",
+      "turkish_meaning": "saygı duymak, hayranlık beslemek",
+      "formal_synonym": "admire, respect, revere",
+      "example_sentence": "Young aspiring scientists naturally look up to pioneering Nobel laureates in physics.",
+      "preposition": "to"
+    },
+    {
+      "id": "pv-048",
+      "verb": "make do with",
+      "turkish_meaning": "ile yetinmek, idare etmek",
+      "formal_synonym": "manage with, suffice with",
+      "example_sentence": "Remote health clinics often have to make do with rudimentary diagnostic equipment.",
+      "preposition": "with"
+    },
+    {
+      "id": "pv-049",
+      "verb": "make out",
+      "turkish_meaning": "güçlükle seçmek, fark etmek; anlamak",
+      "formal_synonym": "discern, distinguish, decipher",
+      "example_sentence": "Through the dense fog, the navigator could barely make out the warning beacon on the cliff.",
+      "preposition": "out"
+    },
+    {
+      "id": "pv-050",
+      "verb": "make up",
+      "turkish_meaning": "oluşturmak; uydurmak; barışmak",
+      "formal_synonym": "constitute, compose, invent",
+      "example_sentence": "Water and organic compounds make up the vast majority of mammalian biological weight.",
+      "preposition": "up"
+    },
+    {
+      "id": "pv-051",
+      "verb": "make up for",
+      "turkish_meaning": "telafi etmek, eksiğini gidermek",
+      "formal_synonym": "compensate for, offset",
+      "example_sentence": "Diligent practice can often make up for an initial lack of innate artistic talent.",
+      "preposition": "for"
+    },
+    {
+      "id": "pv-052",
+      "verb": "pass away",
+      "turkish_meaning": "vefat etmek, ölmek",
+      "formal_synonym": "die, perish, decease",
+      "example_sentence": "The prominent philosopher passed away peacefully at his university residence at age ninety.",
+      "preposition": "away"
+    },
+    {
+      "id": "pv-053",
+      "verb": "pay off",
+      "turkish_meaning": "borcunu ödeyip kapatmak; emeğinin karşılığını vermek",
+      "formal_synonym": "yield benefits, settle debt",
+      "example_sentence": "Long years of meticulous biochemical investigation finally paid off with a breakthrough vaccine.",
+      "preposition": "off"
+    },
+    {
+      "id": "pv-054",
+      "verb": "point out",
+      "turkish_meaning": "işaret etmek, dikkat çekmek, belirtmek",
+      "formal_synonym": "indicate, observe, mention",
+      "example_sentence": "The lead author pointed out several methodological limitations in the preliminary trial design.",
+      "preposition": "out"
+    },
+    {
+      "id": "pv-055",
+      "verb": "pull through",
+      "turkish_meaning": "ağır bir hastalığı/krizi atlatmak",
+      "formal_synonym": "recover, survive, endure",
+      "example_sentence": "Despite critical postoperative complications, the infant managed to pull through thanks to intensive care.",
+      "preposition": "through"
+    },
+    {
+      "id": "pv-056",
+      "verb": "put forward",
+      "turkish_meaning": "öne sürmek, teklif etmek, iddia etmek",
+      "formal_synonym": "propose, advocate, advance",
+      "example_sentence": "Darwin put forward a revolutionary thesis regarding the gradual evolution of species.",
+      "preposition": "forward"
+    },
+    {
+      "id": "pv-057",
+      "verb": "put off",
+      "turkish_meaning": "ertelemek; soğutmak, tiksindirmek",
+      "formal_synonym": "postpone, delay, deter",
+      "example_sentence": "Administrators chose to put off the accreditation inspection until structural repairs were finished.",
+      "preposition": "off"
+    },
+    {
+      "id": "pv-058",
+      "verb": "put out",
+      "turkish_meaning": "söndürmek (yangın); yayımlamak",
+      "formal_synonym": "extinguish, publish",
+      "example_sentence": "Firefighters battled throughout the night to put out the fierce petrochemical blaze.",
+      "preposition": "out"
+    },
+    {
+      "id": "pv-059",
+      "verb": "put up with",
+      "turkish_meaning": "katlanmak, tahammül etmek",
+      "formal_synonym": "tolerate, endure, withstand",
+      "example_sentence": "Urban residents must often put up with relentless acoustic pollution from highway transit.",
+      "preposition": "with"
+    },
+    {
+      "id": "pv-060",
+      "verb": "rely on",
+      "turkish_meaning": "güvenmek, bel bağlamak, muhtaç olmak",
+      "formal_synonym": "depend on, count on",
+      "example_sentence": "Modern navigational logistics rely extensively on global satellite positioning arrays.",
+      "preposition": "on"
+    },
+    {
+      "id": "pv-061",
+      "verb": "resort to",
+      "turkish_meaning": "başka çare kalmayınca son çare olarak başvurmak",
+      "formal_synonym": "turn to, utilize as last resort",
+      "example_sentence": "Authorities were determined not to resort to military force to quell peaceful demonstrations.",
+      "preposition": "to"
+    },
+    {
+      "id": "pv-062",
+      "verb": "result from",
+      "turkish_meaning": "-den kaynaklanmak, sonucu olmak",
+      "formal_synonym": "arise from, stem from",
+      "example_sentence": "Severe soil degradation frequently results from unsustainable agricultural overgrazing.",
+      "preposition": "from"
+    },
+    {
+      "id": "pv-063",
+      "verb": "result in",
+      "turkish_meaning": "ile sonuçlanmak, -e yol açmak",
+      "formal_synonym": "lead to, culminate in, produce",
+      "example_sentence": "Careless disposal of industrial effluents can result in catastrophic aquatic biodiversity loss.",
+      "preposition": "in"
+    },
+    {
+      "id": "pv-064",
+      "verb": "rule out",
+      "turkish_meaning": "göz ardı etmek, ihtimal dışı bırakmak",
+      "formal_synonym": "exclude, eliminate, dismiss",
+      "example_sentence": "The diagnostic specialist was able to rule out malignant tumors following biopsy analysis.",
+      "preposition": "out"
+    },
+    {
+      "id": "pv-065",
+      "verb": "run out of",
+      "turkish_meaning": "tükenmek, bitmek",
+      "formal_synonym": "deplete, exhaust",
+      "example_sentence": "Island communities risk running out of potable freshwater during protracted summer droughts.",
+      "preposition": "of"
+    },
+    {
+      "id": "pv-066",
+      "verb": "set off",
+      "turkish_meaning": "yola çıkmak; tetiklemek, başlatmak",
+      "formal_synonym": "depart, trigger, initiate",
+      "example_sentence": "A sudden spike in consumer interest rates set off panic across commercial mortgage markets.",
+      "preposition": "off"
+    },
+    {
+      "id": "pv-067",
+      "verb": "set out",
+      "turkish_meaning": "yola çıkmak; bir amaçla işe koyulmak, açıklamak",
+      "formal_synonym": "embark, undertake, detail",
+      "example_sentence": "The scientific expedition set out to map unexplored hydrothermal vents along the oceanic ridge.",
+      "preposition": "out"
+    },
+    {
+      "id": "pv-068",
+      "verb": "set up",
+      "turkish_meaning": "kurmak, tesis etmek, düzenlemek",
+      "formal_synonym": "establish, institute, assemble",
+      "example_sentence": "The humanitarian agency set up temporary shelters and field clinics for displaced refugees.",
+      "preposition": "up"
+    },
+    {
+      "id": "pv-069",
+      "verb": "show off",
+      "turkish_meaning": "hava atmak, gösteriş yapmak",
+      "formal_synonym": "flaunt, display boastfully",
+      "example_sentence": "Avian species often display elaborate plumage to show off genetic vitality during mating displays.",
+      "preposition": "off"
+    },
+    {
+      "id": "pv-070",
+      "verb": "stand for",
+      "turkish_meaning": "temsil etmek, anlamına gelmek; savunmak",
+      "formal_synonym": "represent, symbolize, tolerate",
+      "example_sentence": "The international organization stands for universal fundamental human rights and educational parity.",
+      "preposition": "for"
+    },
+    {
+      "id": "pv-071",
+      "verb": "stem from",
+      "turkish_meaning": "-den kaynaklanmak, -den ileri gelmek",
+      "formal_synonym": "originate in, derive from",
+      "example_sentence": "Current diplomatic friction stems from conflicting claims over regional seabed mineral reserves.",
+      "preposition": "from"
+    },
+    {
+      "id": "pv-072",
+      "verb": "switch off",
+      "turkish_meaning": "kapatmak (cihaz), dikkatini kesmek",
+      "formal_synonym": "deactivate, turn off",
+      "example_sentence": "Automated security switches cut off electrical transmission when sensors detect thermal surges.",
+      "preposition": "off"
+    },
+    {
+      "id": "pv-073",
+      "verb": "take after",
+      "turkish_meaning": "aileden birine çekmek, benzemek",
+      "formal_synonym": "resemble",
+      "example_sentence": "The young biologist seems to take after her grandmother in her passionate curiosity for nature.",
+      "preposition": "after"
+    },
+    {
+      "id": "pv-074",
+      "verb": "take away",
+      "turkish_meaning": "alıp götürmek, elinden almak",
+      "formal_synonym": "remove, confiscate",
+      "example_sentence": "Strict regulations can take away sovereign rights from unregulated corporate entities.",
+      "preposition": "away"
+    },
+    {
+      "id": "pv-075",
+      "verb": "take down",
+      "turkish_meaning": "not almak; indirmek; yıkmak",
+      "formal_synonym": "record, write down, dismantle",
+      "example_sentence": "Stenographers took down every witness deposition during the high-profile constitutional hearing.",
+      "preposition": "down"
+    },
+    {
+      "id": "pv-076",
+      "verb": "take for",
+      "turkish_meaning": "zannetmek, sanmak",
+      "formal_synonym": "mistake for, presume",
+      "example_sentence": "Observers took the benign atmospheric phenomenon for an extraterrestrial illumination.",
+      "preposition": "for"
+    },
+    {
+      "id": "pv-077",
+      "verb": "take in",
+      "turkish_meaning": "içeri almak; anlamak; kandırmak",
+      "formal_synonym": "absorb, comprehend, deceive",
+      "example_sentence": "The cognitive load was so severe that students could barely take in the complex equations.",
+      "preposition": "in"
+    },
+    {
+      "id": "pv-078",
+      "verb": "take off",
+      "turkish_meaning": "havalanmak; hızla popüler olmak/başarmak; çıkarmak",
+      "formal_synonym": "depart airborne, flourish, remove",
+      "example_sentence": "Electric commercial aviation is expected to take off rapidly once battery densities improve.",
+      "preposition": "off"
+    },
+    {
+      "id": "pv-079",
+      "verb": "take on",
+      "turkish_meaning": "üstlenmek (sorumluluk); işe almak; mücadeleye girişmek",
+      "formal_synonym": "undertake, assume, hire",
+      "example_sentence": "The newly elected council resolved to take on the daunting challenge of municipal restructuring.",
+      "preposition": "on"
+    },
+    {
+      "id": "pv-080",
+      "verb": "take over",
+      "turkish_meaning": "devralmak, kontrolü ele geçirmek",
+      "formal_synonym": "assume control, conquer",
+      "example_sentence": "A multinational holding company launched a hostile bid to take over the local telecommunications provider.",
+      "preposition": "over"
+    },
+    {
+      "id": "pv-081",
+      "verb": "take part in",
+      "turkish_meaning": "katılmak, yer almak",
+      "formal_synonym": "participate in, join",
+      "example_sentence": "Over five thousand clinical volunteers agreed to take part in the experimental drug study.",
+      "preposition": "in"
+    },
+    {
+      "id": "pv-082",
+      "verb": "take up",
+      "turkish_meaning": "yer/zaman kaplamak; yeni bir hobiye/işe başlamak",
+      "formal_synonym": "occupy, adopt, commence",
+      "example_sentence": "Processing raw astronomical telescope telemetry takes up immense supercomputing bandwidth.",
+      "preposition": "up"
+    },
+    {
+      "id": "pv-083",
+      "verb": "throw away",
+      "turkish_meaning": "çöpe atmak; elindeki fırsatı heba etmek",
+      "formal_synonym": "discard, squander",
+      "example_sentence": "Consumerist lifestyles encourage households to throw away functional electronic appliances prematurely.",
+      "preposition": "away"
+    },
+    {
+      "id": "pv-084",
+      "verb": "turn down",
+      "turkish_meaning": "reddetmek, geri çevirmek; kısmak (ses, ısı)",
+      "formal_synonym": "reject, refuse, reduce",
+      "example_sentence": "The review board turned down the grant application citing insufficient methodological rigor.",
+      "preposition": "down"
+    },
+    {
+      "id": "pv-085",
+      "verb": "turn into",
+      "turkish_meaning": "dönüşmek, haline gelmek",
+      "formal_synonym": "transform into, become",
+      "example_sentence": "Unchecked desertification can turn once fertile agricultural landscapes into barren wastelands.",
+      "preposition": "into"
+    },
+    {
+      "id": "pv-086",
+      "verb": "turn off",
+      "turkish_meaning": "kapatmak (cihaz); hevesini kaçırmak",
+      "formal_synonym": "shut down, extinguish",
+      "example_sentence": "Energy conservation guidelines urge laboratories to turn off non-essential cooling units at night.",
+      "preposition": "off"
+    },
+    {
+      "id": "pv-087",
+      "verb": "turn on",
+      "turkish_meaning": "açmak (cihaz); saldırmak; bağlı olmak",
+      "formal_synonym": "activate, switch on",
+      "example_sentence": "Sensors automatically turn on internal ventilation whenever carbon dioxide thresholds are breached.",
+      "preposition": "on"
+    },
+    {
+      "id": "pv-088",
+      "verb": "turn out",
+      "turkish_meaning": "olduğu ortaya çıkmak; sonuçlanmak; üretmek",
+      "formal_synonym": "transpire, prove to be",
+      "example_sentence": "The initial medical diagnosis turned out to be inaccurate following comprehensive magnetic resonance imaging.",
+      "preposition": "out"
+    },
+    {
+      "id": "pv-089",
+      "verb": "turn over",
+      "turkish_meaning": "ters çevirmek; devretmek; ciro yapmak",
+      "formal_synonym": "transfer, yield, invert",
+      "example_sentence": "The outgoing director officially turned over administrative authority to the newly elected dean.",
+      "preposition": "over"
+    },
+    {
+      "id": "pv-090",
+      "verb": "turn up",
+      "turkish_meaning": "çıkagelmek, ortaya çıkmak; sesini/ısısını açmak",
+      "formal_synonym": "appear unexpectedly, increase",
+      "example_sentence": "Valuable historical documents unexpectedly turned up during the routine refurbishment of the archives.",
+      "preposition": "up"
+    },
+    {
+      "id": "pv-091",
+      "verb": "use up",
+      "turkish_meaning": "tüketmek, son damlasına kadar harcamak",
+      "formal_synonym": "exhaust, consume entirely",
+      "example_sentence": "Rapid industrial development threatens to use up finite subterranean aquifer reserves within two decades.",
+      "preposition": "up"
+    },
+    {
+      "id": "pv-092",
+      "verb": "wipe out",
+      "turkish_meaning": "tamamen yok etmek, kökünü kazımak",
+      "formal_synonym": "eradicate, annihilate, destroy",
+      "example_sentence": "Catastrophic volcanic eruptions wiped out entire prehistoric island civilizations.",
+      "preposition": "out"
+    },
+    {
+      "id": "pv-093",
+      "verb": "work out",
+      "turkish_meaning": "çözmek, hesaplamak; iyi sonuçlanmak; egzersiz yapmak",
+      "formal_synonym": "calculate, resolve, succeed",
+      "example_sentence": "Econometricians worked out a predictive mathematical formula to anticipate market inflation trends.",
+      "preposition": "out"
+    },
+    {
+      "id": "pv-094",
+      "verb": "bring down",
+      "turkish_meaning": "düşürmek, azaltmak; iktidardan indirmek",
+      "formal_synonym": "reduce, overthrow, lower",
+      "example_sentence": "Fiscal discipline helped bring down high consumer inflation rates over consecutive quarters.",
+      "preposition": "down"
+    },
+    {
+      "id": "pv-095",
+      "verb": "look over",
+      "turkish_meaning": "göz gezdirmek, hızlıca incelemek",
+      "formal_synonym": "inspect, examine, review",
+      "example_sentence": "The senior editor looked over the drafted manuscript before approving final submission.",
+      "preposition": "over"
+    },
+    {
+      "id": "pv-096",
+      "verb": "keep on",
+      "turkish_meaning": "yapmaya devam etmek, sürdürmek",
+      "formal_synonym": "continue, persist in",
+      "example_sentence": "Despite initial laboratory failures, the biochemists kept on synthesizing novel peptides.",
+      "preposition": "on"
+    },
+    {
+      "id": "pv-097",
+      "verb": "run into",
+      "turkish_meaning": "beklenmedik bir engelle karşılaşmak; toslamak",
+      "formal_synonym": "encounter difficulties, collide with",
+      "example_sentence": "The orbital satellite project ran into unexpected budgetary and logistical delays.",
+      "preposition": "into"
+    },
+    {
+      "id": "pv-098",
+      "verb": "set in",
+      "turkish_meaning": "başlayıp yerleşmek, bastırmak (kış, kriz, enfeksiyon)",
+      "formal_synonym": "commence, become established",
+      "example_sentence": "Before severe frost set in, agrarian workers harvested the vulnerable grape yields.",
+      "preposition": "in"
+    },
+    {
+      "id": "pv-099",
+      "verb": "show up",
+      "turkish_meaning": "çıkagelmek, varmak, belirmek",
+      "formal_synonym": "arrive, appear",
+      "example_sentence": "Rare migratory raptors unexpectedly showed up in the suburban nature reserve.",
+      "preposition": "up"
+    },
+    {
+      "id": "pv-100",
+      "verb": "sort out",
+      "turkish_meaning": "çözümlemek, düzene koymak, ayıklamak",
+      "formal_synonym": "resolve, organize, clarify",
+      "example_sentence": "Arbitration tribunals specialize in helping trading partners sort out contractual conflicts.",
+      "preposition": "out"
+    },
+    {
+      "id": "pv-101",
+      "verb": "take back",
+      "turkish_meaning": "sözünü geri almak; iade etmek",
+      "formal_synonym": "withdraw statement, return",
+      "example_sentence": "The spokesperson had to publicly take back earlier unsubstantiated assertions.",
+      "preposition": "back"
+    },
+    {
+      "id": "pv-102",
+      "verb": "break in",
+      "turkish_meaning": "zorla içeri girmek; alıştırmak",
+      "formal_synonym": "intrude, train, accustom",
+      "example_sentence": "Security guards apprehended trespassers attempting to break in through the ventilation shaft.",
+      "preposition": "in"
+    },
+    {
+      "id": "pv-103",
+      "verb": "hold on",
+      "turkish_meaning": "tutunmak, beklemek; direnmek",
+      "formal_synonym": "wait, cling, endure",
+      "example_sentence": "The embattled mayor urged citizens to hold on until emergency water supplies arrived.",
+      "preposition": "on"
+    },
+    {
+      "id": "pv-104",
+      "verb": "leave behind",
+      "turkish_meaning": "geride bırakmak, aşmak",
+      "formal_synonym": "abandon, outpace",
+      "example_sentence": "Rapid industrial automation leaves behind workers lacking contemporary digital proficiencies.",
+      "preposition": "behind"
+    },
+    {
+      "id": "pv-105",
+      "verb": "look through",
+      "turkish_meaning": "hızlıca gözden geçirmek, taramak",
+      "formal_synonym": "browse, scan, peruse",
+      "example_sentence": "The patent officer looked through existing registrations to verify intellectual uniqueness.",
+      "preposition": "through"
+    },
+    {
+      "id": "pv-106",
+      "verb": "pass on",
+      "turkish_meaning": "aktarmak, sonraki nesle devretmek",
+      "formal_synonym": "transmit, convey, transfer",
+      "example_sentence": "Oral traditions pass on invaluable ancestral navigational techniques across generations.",
+      "preposition": "on"
+    },
+    {
+      "id": "pv-107",
+      "verb": "run across",
+      "turkish_meaning": "tesadüfen denk gelmek, bulmak",
+      "formal_synonym": "encounter, find by chance",
+      "example_sentence": "Biochemists ran across an enigmatic fungal strain in deep subterranean caves.",
+      "preposition": "across"
+    },
+    {
+      "id": "pv-108",
+      "verb": "see to",
+      "turkish_meaning": "icabına bakmak, gereğini yapmak, ilgilenmek",
+      "formal_synonym": "attend to, take care of, ensure",
+      "example_sentence": "Municipal supervisors will see to the expeditious repair of damaged water mains.",
+      "preposition": "to"
+    },
+    {
+      "id": "pv-109",
+      "verb": "stand out",
+      "turkish_meaning": "göze çarpmak, fark yaratmak, sivrilmek",
+      "formal_synonym": "be noticeable, distinguish oneself",
+      "example_sentence": "Her comprehensive doctoral thesis stood out for its rigorous statistical methodology.",
+      "preposition": "out"
+    },
+    {
+      "id": "pv-110",
+      "verb": "fall out",
+      "turkish_meaning": "bozuşmak, arası açılmak; dökülmek",
+      "formal_synonym": "quarrel, become detached",
+      "example_sentence": "The research partners fell out over patent rights resulting from their joint discovery.",
+      "preposition": "out"
+    }
+  ]
+}

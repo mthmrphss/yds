@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "min_app_version": "1.0.0",
+  "updated_at": "2026-09-24",
+  "changelog": "İlk resmi YDS akademik soru bankası, kelimeler, bağlaçlar ve konu anlatımları.",
+  "endpoints": {
+    "questions": "questions.json",
+    "vocabulary": "vocabulary.json",
+    "grammar": "grammar_notes.json",
+    "connectors": "connectors.json",
+    "collocations": "collocations.json",
+    "phrasal_verbs": "phrasal_verbs.json",
+    "exam_strategies": "exam_strategies.json"
+  }
+}

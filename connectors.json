@@ -1,0 +1,137 @@
+{
+  "version": "1.0",
+  "description": "YDS ve e-YDS sınavlarında en sık test edilen mantıksal bağlaçlar haritası",
+  "categories": [
+    {
+      "category": "contrast",
+      "title_tr": "Karşıtlık Bağlaçları (Contrast)",
+      "explanation": "İki bağımsız veya denk durum arasındaki zıtlığı veya farkı ifade eder.",
+      "items": [
+        {
+          "connector": "however",
+          "grammar": "Nokta veya noktalı virgül sonrası gelir, virgülle ayrılır",
+          "meaning_tr": "ancak, bununla birlikte",
+          "example": "The initial results were promising; however, subsequent trials failed to replicate them."
+        },
+        {
+          "connector": "nevertheless / nonetheless",
+          "grammar": "Geçiş zarfıdır, cümle başında veya ortasında virgülle kullanılır",
+          "meaning_tr": "yine de, buna rağmen",
+          "example": "The cost of offshore wind is high; nevertheless, investments continue to accelerate."
+        },
+        {
+          "connector": "whereas / while",
+          "grammar": "İki tam cümleyi (S+V) bağlar, virgülle iki durumu kıyaslar",
+          "meaning_tr": "oysa ki, halbuki, -iken",
+          "example": "Some nations subsidize fossil fuels, whereas others impose heavy carbon penalties."
+        },
+        {
+          "connector": "on the other hand",
+          "grammar": "Geçiş zarfıdır, karşılaştırma yapar",
+          "meaning_tr": "öte yandan, diğer taraftan",
+          "example": "Nuclear energy produces zero emissions; on the other hand, waste storage remains unresolved."
+        }
+      ]
+    },
+    {
+      "category": "concession",
+      "title_tr": "Ödün / Rağmen Bağlaçları (Concession)",
+      "explanation": "Beklenen sonucun tersinin gerçekleştiğini bildirir (bir engele rağmen).",
+      "items": [
+        {
+          "connector": "although / even though / though",
+          "grammar": "Tam cümle (S + V) alır",
+          "meaning_tr": "-e rağmen, -dığı halde",
+          "example": "Although the patient exhibited severe symptoms, antibiotic therapy proved effective."
+        },
+        {
+          "connector": "despite / in spite of",
+          "grammar": "İsim (Noun) veya V-ing alır, CÜMLE ALMAZ!",
+          "meaning_tr": "-e rağmen, karşın",
+          "example": "Despite rigorous security protocols, malware compromised the central server."
+        },
+        {
+          "connector": "notwithstanding",
+          "grammar": "İsim alır, resmi/akademik dilde yaygındır",
+          "meaning_tr": "-e rağmen",
+          "example": "Notwithstanding public skepticism, the municipal subway project finished ahead of schedule."
+        }
+      ]
+    },
+    {
+      "category": "cause",
+      "title_tr": "Neden / Sebep Bağlaçları (Cause & Reason)",
+      "explanation": "Bir eylemin veya durumun arkasındaki gerekçeyi ifade eder.",
+      "items": [
+        {
+          "connector": "because / since / as",
+          "grammar": "Tam cümle (S + V) alır",
+          "meaning_tr": "-dığı için, çünkü",
+          "example": "Since the sample was contaminated, technicians had to restart the culture assay."
+        },
+        {
+          "connector": "due to / owing to / on account of",
+          "grammar": "İsim (Noun) veya V-ing alır",
+          "meaning_tr": "-den dolayı, sebebiyle",
+          "example": "The flight was grounded due to severe turbulence across the mountain pass."
+        },
+        {
+          "connector": "thanks to",
+          "grammar": "İsim alır, genellikle olumlu sebep bildirir",
+          "meaning_tr": "sayesinde",
+          "example": "Thanks to early vaccination coverage, the outbreak was contained within weeks."
+        }
+      ]
+    },
+    {
+      "category": "result",
+      "title_tr": "Sonuç Bağlaçları (Result & Consequence)",
+      "explanation": "Bir durumun veya eylemin doğurduğu sonucu gösterir.",
+      "items": [
+        {
+          "connector": "therefore / thus / hence",
+          "grammar": "Geçiş zarfı olarak kullanılır",
+          "meaning_tr": "bu nedenle, dolayısıyla, bundan ötürü",
+          "example": "The treaty was never ratified; therefore, international sanctions remained in place."
+        },
+        {
+          "connector": "consequently / as a result",
+          "grammar": "Virgülle iki bağımsız cümleyi bağlar",
+          "meaning_tr": "sonuç olarak",
+          "example": "Drought degraded topsoil; consequently, agricultural output dropped forty percent."
+        },
+        {
+          "connector": "so ... that / such ... that",
+          "grammar": "so + adj/adv + that / such + (a/an) + adj + noun + that",
+          "meaning_tr": "öyle ... ki",
+          "example": "The earthquake was so destructive that entire residential sectors were demolished."
+        }
+      ]
+    },
+    {
+      "category": "condition",
+      "title_tr": "Şart / Koşul Bağlaçları (Condition)",
+      "explanation": "Bir durumun gerçekleşmesi için gerekli koşulu ifade eder.",
+      "items": [
+        {
+          "connector": "if / provided that / as long as",
+          "grammar": "Şart cümlesi alır (Type 1, 2, 3)",
+          "meaning_tr": "eğer, şartıyla, -dığı sürece",
+          "example": "Provided that funding is secured, construction of the observatory will commence."
+        },
+        {
+          "connector": "unless",
+          "grammar": "if not anlamına gelir, olumlu yapı içinde olumsuz anlam taşır",
+          "meaning_tr": "-medikçe, -mezse",
+          "example": "Unless greenhouse emissions fall, coastal cities will face frequent flooding."
+        },
+        {
+          "connector": "otherwise",
+          "grammar": "Nokta veya noktalı virgülden sonra gelir",
+          "meaning_tr": "aksi takdirde, yoksa",
+          "example": "Farmers must irrigate early; otherwise, topsoil moisture evaporates rapidly."
+        }
+      ]
+    }
+  ]
+}

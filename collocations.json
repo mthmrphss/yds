@@ -1,0 +1,1286 @@
+{
+  "version": "1.0",
+  "total_collocations": 160,
+  "collocations": [
+    {
+      "id": "col-001",
+      "collocation": "pose a threat",
+      "type": "verb_noun",
+      "turkish_meaning": "tehdit oluşturmak",
+      "example_sentence": "Invasive species pose a severe threat to indigenous ecosystems.",
+      "topic_field": "environment"
+    },
+    {
+      "id": "col-002",
+      "collocation": "pose a risk",
+      "type": "verb_noun",
+      "turkish_meaning": "risk teşkil etmek",
+      "example_sentence": "Unregulated artificial intelligence models pose a risk to public cybersecurity.",
+      "topic_field": "technology"
+    },
+    {
+      "id": "col-003",
+      "collocation": "pose a challenge",
+      "type": "verb_noun",
+      "turkish_meaning": "zorluk yaratmak",
+      "example_sentence": "Steep topography poses a daunting challenge for railway construction.",
+      "topic_field": "infrastructure"
+    },
+    {
+      "id": "col-004",
+      "collocation": "raise awareness",
+      "type": "verb_noun",
+      "turkish_meaning": "farkındalık yaratmak/artırmak",
+      "example_sentence": "Public campaigns seek to raise awareness about early diagnostic symptoms of diabetes.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-005",
+      "collocation": "raise concerns",
+      "type": "verb_noun",
+      "turkish_meaning": "endişe uyandırmak",
+      "example_sentence": "Recent economic volatility has raised concerns among private institutional investors.",
+      "topic_field": "economics"
+    },
+    {
+      "id": "col-006",
+      "collocation": "raise questions",
+      "type": "verb_noun",
+      "turkish_meaning": "soru işaretleri doğurmak",
+      "example_sentence": "Discrepancies in the laboratory logs raise questions regarding data authenticity.",
+      "topic_field": "science"
+    },
+    {
+      "id": "col-007",
+      "collocation": "address an issue",
+      "type": "verb_noun",
+      "turkish_meaning": "bir meseleyi ele almak",
+      "example_sentence": "The symposium aims to address the issue of clean water accessibility.",
+      "topic_field": "environment"
+    },
+    {
+      "id": "col-008",
+      "collocation": "address a problem",
+      "type": "verb_noun",
+      "turkish_meaning": "soruna çözüm aramak/ele almak",
+      "example_sentence": "Urgent fiscal policies are mandatory to address the problem of youth unemployment.",
+      "topic_field": "economics"
+    },
+    {
+      "id": "col-009",
+      "collocation": "address a gap",
+      "type": "verb_noun",
+      "turkish_meaning": "bir boşluğu doldurmak",
+      "example_sentence": "This research successfully addresses a major gap in modern neurological literature.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-010",
+      "collocation": "conduct research",
+      "type": "verb_noun",
+      "turkish_meaning": "araştırma yürütmek",
+      "example_sentence": "Marine biologists conduct research into the genetic adaptations of coral reefs.",
+      "topic_field": "biology"
+    },
+    {
+      "id": "col-011",
+      "collocation": "conduct an experiment",
+      "type": "verb_noun",
+      "turkish_meaning": "deney yapmak",
+      "example_sentence": "Undergraduates conducted an experiment on gravitational wave interference.",
+      "topic_field": "science"
+    },
+    {
+      "id": "col-012",
+      "collocation": "conduct a study",
+      "type": "verb_noun",
+      "turkish_meaning": "çalışma gerçekleştirmek",
+      "example_sentence": "Sociologists conducted a comprehensive study examining demographic shifts in cities.",
+      "topic_field": "society"
+    },
+    {
+      "id": "col-013",
+      "collocation": "reach a conclusion",
+      "type": "verb_noun",
+      "turkish_meaning": "bir sonuca varmak",
+      "example_sentence": "After months of deliberation, the tribunal reached a definitive conclusion.",
+      "topic_field": "law"
+    },
+    {
+      "id": "col-014",
+      "collocation": "reach a consensus",
+      "type": "verb_noun",
+      "turkish_meaning": "fikir birliğine varmak",
+      "example_sentence": "Delegates reached a consensus on international maritime navigation corridors.",
+      "topic_field": "governance"
+    },
+    {
+      "id": "col-015",
+      "collocation": "reach a peak",
+      "type": "verb_noun",
+      "turkish_meaning": "zirveye ulaşmak",
+      "example_sentence": "Atmospheric temperatures reached a peak during the late afternoon hours.",
+      "topic_field": "environment"
+    },
+    {
+      "id": "col-016",
+      "collocation": "draw a distinction",
+      "type": "verb_noun",
+      "turkish_meaning": "ayrım yapmak",
+      "example_sentence": "Ethicists draw a clear distinction between moral responsibility and legal liability.",
+      "topic_field": "philosophy"
+    },
+    {
+      "id": "col-017",
+      "collocation": "draw an analogy",
+      "type": "verb_noun",
+      "turkish_meaning": "benzetme yapmak",
+      "example_sentence": "The lecturer drew an analogy between the human circulatory system and urban transport grids.",
+      "topic_field": "education"
+    },
+    {
+      "id": "col-018",
+      "collocation": "draw attention to",
+      "type": "verb_noun",
+      "turkish_meaning": "dikkat çekmek",
+      "example_sentence": "The report drew attention to alarming levels of heavy metals in local drinking reservoirs.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-019",
+      "collocation": "exert pressure",
+      "type": "verb_noun",
+      "turkish_meaning": "baskı uygulamak",
+      "example_sentence": "Lobbying groups exerted intense pressure on lawmakers to amend the proposed taxation bill.",
+      "topic_field": "governance"
+    },
+    {
+      "id": "col-020",
+      "collocation": "exert influence",
+      "type": "verb_noun",
+      "turkish_meaning": "nüfuz/etki uygulamak",
+      "example_sentence": "Multinational tech conglomerates exert immense influence over consumer media behaviour.",
+      "topic_field": "technology"
+    },
+    {
+      "id": "col-021",
+      "collocation": "exert control",
+      "type": "verb_noun",
+      "turkish_meaning": "kontrol sağlamak/uygulamak",
+      "example_sentence": "Central banking institutions exert strict control over national benchmark lending rates.",
+      "topic_field": "economics"
+    },
+    {
+      "id": "col-022",
+      "collocation": "undergo treatment",
+      "type": "verb_noun",
+      "turkish_meaning": "tedavi görmek",
+      "example_sentence": "Oncology patients must undergo systemic treatment to prevent cellular recurrence.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-023",
+      "collocation": "undergo transformation",
+      "type": "verb_noun",
+      "turkish_meaning": "dönüşüm geçirmek",
+      "example_sentence": "Post-industrial cities underwent a radical transformation into financial and cultural hubs.",
+      "topic_field": "history"
+    },
+    {
+      "id": "col-024",
+      "collocation": "undergo change",
+      "type": "verb_noun",
+      "turkish_meaning": "değişime uğramak",
+      "example_sentence": "Ecosystems continuously undergo change in response to fluctuating meteorological patterns.",
+      "topic_field": "environment"
+    },
+    {
+      "id": "col-025",
+      "collocation": "sustainable development",
+      "type": "adj_noun",
+      "turkish_meaning": "sürdürülebilir kalkınma",
+      "example_sentence": "Balancing economic expansion with resource preservation is vital for sustainable development.",
+      "topic_field": "environment"
+    },
+    {
+      "id": "col-026",
+      "collocation": "sustainable agriculture",
+      "type": "adj_noun",
+      "turkish_meaning": "sürdürülebilir tarım",
+      "example_sentence": "Crop rotation and drip irrigation are core principles of modern sustainable agriculture.",
+      "topic_field": "agriculture"
+    },
+    {
+      "id": "col-027",
+      "collocation": "sustainable growth",
+      "type": "adj_noun",
+      "turkish_meaning": "sürdürülebilir büyüme",
+      "example_sentence": "Long-term fiscal planning guarantees sustainable growth without triggering rampant hyperinflation.",
+      "topic_field": "economics"
+    },
+    {
+      "id": "col-028",
+      "collocation": "mitigate the effects",
+      "type": "verb_noun",
+      "turkish_meaning": "etkilerini hafifletmek/azaltmak",
+      "example_sentence": "Planting urban forests helps mitigate the adverse effects of microclimatic heat islands.",
+      "topic_field": "environment"
+    },
+    {
+      "id": "col-029",
+      "collocation": "mitigate the impact",
+      "type": "verb_noun",
+      "turkish_meaning": "etkiyi azaltmak",
+      "example_sentence": "Constructing robust sea walls mitigates the impact of coastal hurricane surges.",
+      "topic_field": "infrastructure"
+    },
+    {
+      "id": "col-030",
+      "collocation": "mitigate risk",
+      "type": "verb_noun",
+      "turkish_meaning": "riski azaltmak",
+      "example_sentence": "Diversifying portfolio investments effectively mitigates financial risk in volatile equity sectors.",
+      "topic_field": "economics"
+    },
+    {
+      "id": "col-031",
+      "collocation": "adverse effect",
+      "type": "adj_noun",
+      "turkish_meaning": "olumsuz etki, yan etki",
+      "example_sentence": "The pharmacological compound showed no significant adverse effects during preliminary animal trials.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-032",
+      "collocation": "adverse conditions",
+      "type": "adj_noun",
+      "turkish_meaning": "elverişsiz/zorlu koşullar",
+      "example_sentence": "Arctic explorers demonstrated remarkable fortitude under adverse meteorological conditions.",
+      "topic_field": "geography"
+    },
+    {
+      "id": "col-033",
+      "collocation": "empirical evidence",
+      "type": "adj_noun",
+      "turkish_meaning": "deneysel/gözlemsel kanıt",
+      "example_sentence": "The evolutionary hypothesis is supported by overwhelming empirical evidence from fossil beds.",
+      "topic_field": "science"
+    },
+    {
+      "id": "col-034",
+      "collocation": "empirical data",
+      "type": "adj_noun",
+      "turkish_meaning": "deneysel veri",
+      "example_sentence": "Researchers relied on empirical data rather than theoretical conjecture to draft conclusions.",
+      "topic_field": "science"
+    },
+    {
+      "id": "col-035",
+      "collocation": "compelling evidence",
+      "type": "adj_noun",
+      "turkish_meaning": "ikna edici kanıt",
+      "example_sentence": "Cosmologists uncovered compelling evidence pointing to the accelerated expansion of the universe.",
+      "topic_field": "astronomy"
+    },
+    {
+      "id": "col-036",
+      "collocation": "compelling argument",
+      "type": "adj_noun",
+      "turkish_meaning": "ikna edici argüman",
+      "example_sentence": "The defence counsel presented a compelling argument regarding procedural irregularities.",
+      "topic_field": "law"
+    },
+    {
+      "id": "col-037",
+      "collocation": "crucial role",
+      "type": "adj_noun",
+      "turkish_meaning": "hayati rol",
+      "example_sentence": "Vaccination campaigns play a crucial role in preventing global epidemic outbreaks.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-038",
+      "collocation": "play a crucial role",
+      "type": "verb_noun",
+      "turkish_meaning": "hayati bir rol oynamak",
+      "example_sentence": "Pollinators like bees play a crucial role in maintaining terrestrial agricultural yields.",
+      "topic_field": "biology"
+    },
+    {
+      "id": "col-039",
+      "collocation": "profound impact",
+      "type": "adj_noun",
+      "turkish_meaning": "derin etki",
+      "example_sentence": "The invention of the Gutenberg printing press had a profound impact on European literacy.",
+      "topic_field": "history"
+    },
+    {
+      "id": "col-040",
+      "collocation": "profound effect",
+      "type": "adj_noun",
+      "turkish_meaning": "derin tesir",
+      "example_sentence": "Parental bereavement in early infancy can exert a profound effect on adult personality.",
+      "topic_field": "psychology"
+    },
+    {
+      "id": "col-041",
+      "collocation": "substantial increase",
+      "type": "adj_noun",
+      "turkish_meaning": "kayda değer artış",
+      "example_sentence": "Fiscal incentives prompted a substantial increase in private solar panel installations.",
+      "topic_field": "economics"
+    },
+    {
+      "id": "col-042",
+      "collocation": "substantial progress",
+      "type": "adj_noun",
+      "turkish_meaning": "önemli ilerleme",
+      "example_sentence": "Genetic therapy researchers made substantial progress in managing hereditary metabolic syndromes.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-043",
+      "collocation": "cognitive ability",
+      "type": "adj_noun",
+      "turkish_meaning": "bilişsel yetenek",
+      "example_sentence": "Aerobic physical conditioning correlates with preserved cognitive ability in advanced senescence.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-044",
+      "collocation": "cognitive development",
+      "type": "adj_noun",
+      "turkish_meaning": "bilişsel gelişim",
+      "example_sentence": "Bilingual exposure from early childhood significantly enhances pediatric cognitive development.",
+      "topic_field": "education"
+    },
+    {
+      "id": "col-045",
+      "collocation": "inherent risk",
+      "type": "adj_noun",
+      "turkish_meaning": "doğasında olan risk",
+      "example_sentence": "Deep-sea hydrocarbon drilling carries an inherent risk of subsea blowout failures.",
+      "topic_field": "technology"
+    },
+    {
+      "id": "col-046",
+      "collocation": "inherent flaw",
+      "type": "adj_noun",
+      "turkish_meaning": "yapısal/özünde olan kusur",
+      "example_sentence": "Security researchers identified an inherent flaw in the algorithmic encryption protocol.",
+      "topic_field": "technology"
+    },
+    {
+      "id": "col-047",
+      "collocation": "prevalent disease",
+      "type": "adj_noun",
+      "turkish_meaning": "yaygın hastalık",
+      "example_sentence": "Hypertension is currently one of the most prevalent diseases across industrialized societies.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-048",
+      "collocation": "vital importance",
+      "type": "adj_noun",
+      "turkish_meaning": "hayati önem",
+      "example_sentence": "Preserving equatorial rain forest biomes is of vital importance for atmospheric equilibrium.",
+      "topic_field": "environment"
+    },
+    {
+      "id": "col-049",
+      "collocation": "inevitable outcome",
+      "type": "adj_noun",
+      "turkish_meaning": "kaçınılmaz sonuç",
+      "example_sentence": "Without technological modernization, structural obsolescence became the inevitable outcome.",
+      "topic_field": "economics"
+    },
+    {
+      "id": "col-050",
+      "collocation": "feasible solution",
+      "type": "adj_noun",
+      "turkish_meaning": "uygulanabilir çözüm",
+      "example_sentence": "Engineers developed a commercially feasible solution for recycling lithium vehicle batteries.",
+      "topic_field": "technology"
+    },
+    {
+      "id": "col-051",
+      "collocation": "controversial issue",
+      "type": "adj_noun",
+      "turkish_meaning": "tartışmalı konu",
+      "example_sentence": "Genetic modification of human embryonic lines remains a deeply controversial issue worldwide.",
+      "topic_field": "ethics"
+    },
+    {
+      "id": "col-052",
+      "collocation": "comprehensive study",
+      "type": "adj_noun",
+      "turkish_meaning": "kapsamlı çalışma",
+      "example_sentence": "The WHO published a comprehensive study on the global prevalence of depression.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-053",
+      "collocation": "detrimental effect",
+      "type": "adj_noun",
+      "turkish_meaning": "zararlı etki",
+      "example_sentence": "Microplastics have documented detrimental effects on marine organism digestive tracts.",
+      "topic_field": "biology"
+    },
+    {
+      "id": "col-054",
+      "collocation": "persistent problem",
+      "type": "adj_noun",
+      "turkish_meaning": "süregelen/inatçı sorun",
+      "example_sentence": "Income inequality remains a persistent problem across both emerging and mature markets.",
+      "topic_field": "economics"
+    },
+    {
+      "id": "col-055",
+      "collocation": "vulnerable to",
+      "type": "adj_prep",
+      "turkish_meaning": "-e karşı savunmasız/hassas",
+      "example_sentence": "Coastal wetlands are acutely vulnerable to sea level rise and commercial reclamation.",
+      "topic_field": "environment"
+    },
+    {
+      "id": "col-056",
+      "collocation": "prone to",
+      "type": "adj_prep",
+      "turkish_meaning": "-e yatkın, meyilli",
+      "example_sentence": "Individuals with high stress levels are significantly more prone to gastric ulcers.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-057",
+      "collocation": "subject to",
+      "type": "adj_prep",
+      "turkish_meaning": "-e tabi, maruz",
+      "example_sentence": "Cross-border capital transactions are strictly subject to national regulatory supervision.",
+      "topic_field": "law"
+    },
+    {
+      "id": "col-058",
+      "collocation": "associated with",
+      "type": "adj_prep",
+      "turkish_meaning": "ile ilişkili",
+      "example_sentence": "Sedentary lifestyle habits are strongly associated with higher incidences of stroke.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-059",
+      "collocation": "attributed to",
+      "type": "adj_prep",
+      "turkish_meaning": "-e atfedilen, -den kaynaklanan",
+      "example_sentence": "The unpredicted demographic decline was largely attributed to prolonged economic hardship.",
+      "topic_field": "society"
+    },
+    {
+      "id": "col-060",
+      "collocation": "committed to",
+      "type": "adj_prep",
+      "turkish_meaning": "-e kendini adamış/kararlı",
+      "example_sentence": "The coalition remains firmly committed to reducing regional child mortality rates.",
+      "topic_field": "governance"
+    },
+    {
+      "id": "col-061",
+      "collocation": "comply with regulations",
+      "type": "verb_noun",
+      "turkish_meaning": "düzenlemelere uymak",
+      "example_sentence": "Aviation manufacturers must strictly comply with international safety regulations.",
+      "topic_field": "transport"
+    },
+    {
+      "id": "col-062",
+      "collocation": "fulfil requirements",
+      "type": "verb_noun",
+      "turkish_meaning": "gereksinimleri karşılamak",
+      "example_sentence": "Applicants must fulfill specific language proficiency requirements before matriculation.",
+      "topic_field": "education"
+    },
+    {
+      "id": "col-063",
+      "collocation": "implement policies",
+      "type": "verb_noun",
+      "turkish_meaning": "politikaları yürürlüğe koymak",
+      "example_sentence": "The municipality implemented strict policies regarding single-use plastics.",
+      "topic_field": "environment"
+    },
+    {
+      "id": "col-064",
+      "collocation": "allocate resources",
+      "type": "verb_noun",
+      "turkish_meaning": "kaynak tahsis etmek",
+      "example_sentence": "Developing countries struggle to allocate adequate resources toward preventive healthcare.",
+      "topic_field": "economics"
+    },
+    {
+      "id": "col-065",
+      "collocation": "foster innovation",
+      "type": "verb_noun",
+      "turkish_meaning": "yenilikçiliği teşvik etmek",
+      "example_sentence": "Government tax credits can effectively foster innovation within clean tech startups.",
+      "topic_field": "technology"
+    },
+    {
+      "id": "col-066",
+      "collocation": "trigger a reaction",
+      "type": "verb_noun",
+      "turkish_meaning": "tepkiyi tetiklemek",
+      "example_sentence": "Antigenic proteins trigger an immediate immune reaction in sensitized hosts.",
+      "topic_field": "biology"
+    },
+    {
+      "id": "col-067",
+      "collocation": "inhibit growth",
+      "type": "verb_noun",
+      "turkish_meaning": "büyümeyi engellemek",
+      "example_sentence": "Prolonged soil salinity strongly inhibits root elongation and crop yield growth.",
+      "topic_field": "agriculture"
+    },
+    {
+      "id": "col-068",
+      "collocation": "reinforce the idea",
+      "type": "verb_noun",
+      "turkish_meaning": "fikri pekiştirmek",
+      "example_sentence": "Archaeological discoveries reinforced the idea that maritime trade predated agriculture.",
+      "topic_field": "history"
+    },
+    {
+      "id": "col-069",
+      "collocation": "gain insight into",
+      "type": "verb_noun",
+      "turkish_meaning": "hakkında derin anlayış kazanmak",
+      "example_sentence": "Brain imaging enables neuroscientists to gain insight into dream architecture.",
+      "topic_field": "psychology"
+    },
+    {
+      "id": "col-070",
+      "collocation": "reach a threshold",
+      "type": "verb_noun",
+      "turkish_meaning": "eşiğe ulaşmak",
+      "example_sentence": "Global warming could reach an irreversible tipping threshold if emissions persist.",
+      "topic_field": "environment"
+    },
+    {
+      "id": "col-071",
+      "collocation": "achieve an objective",
+      "type": "verb_noun",
+      "turkish_meaning": "hedefe ulaşmak",
+      "example_sentence": "Management outlined strategies to achieve their corporate objective.",
+      "topic_field": "management"
+    },
+    {
+      "id": "col-072",
+      "collocation": "adopt an approach",
+      "type": "verb_noun",
+      "turkish_meaning": "bir yaklaşım benimsemek",
+      "example_sentence": "Educators are urged to adopt a more student-centered pedagogical approach.",
+      "topic_field": "education"
+    },
+    {
+      "id": "col-073",
+      "collocation": "apply a method",
+      "type": "verb_noun",
+      "turkish_meaning": "yöntem uygulamak",
+      "example_sentence": "Archaeologists applied an innovative radiocarbon dating method to the artifacts.",
+      "topic_field": "history"
+    },
+    {
+      "id": "col-074",
+      "collocation": "broaden horizons",
+      "type": "verb_noun",
+      "turkish_meaning": "ufku genişletmek",
+      "example_sentence": "International exchange programs significantly broaden academic horizons.",
+      "topic_field": "education"
+    },
+    {
+      "id": "col-075",
+      "collocation": "bridge the gap",
+      "type": "verb_noun",
+      "turkish_meaning": "aradaki uçurumu kapatmak",
+      "example_sentence": "Technological literacy programs help bridge the socioeconomic digital gap.",
+      "topic_field": "society"
+    },
+    {
+      "id": "col-076",
+      "collocation": "cast doubt on",
+      "type": "verb_noun",
+      "turkish_meaning": "şüphe uyandırmak",
+      "example_sentence": "Recent experimental replications cast serious doubt on the initial findings.",
+      "topic_field": "science"
+    },
+    {
+      "id": "col-077",
+      "collocation": "cause damage to",
+      "type": "verb_noun",
+      "turkish_meaning": "hasar vermek",
+      "example_sentence": "Acidic precipitation caused widespread damage to ancient marble monuments.",
+      "topic_field": "environment"
+    },
+    {
+      "id": "col-078",
+      "collocation": "confirm a hypothesis",
+      "type": "verb_noun",
+      "turkish_meaning": "hipotezi doğrulamak",
+      "example_sentence": "Subsequent spectroscopic measurements confirmed the theoretical hypothesis.",
+      "topic_field": "physics"
+    },
+    {
+      "id": "col-079",
+      "collocation": "deliver a speech",
+      "type": "verb_noun",
+      "turkish_meaning": "konuşma yapmak",
+      "example_sentence": "The visiting chancellor delivered an inspiring speech at the convocation.",
+      "topic_field": "education"
+    },
+    {
+      "id": "col-080",
+      "collocation": "demonstrate ability",
+      "type": "verb_noun",
+      "turkish_meaning": "yetenek göstermek",
+      "example_sentence": "Candidates must demonstrate the ability to process dense scientific literature.",
+      "topic_field": "education"
+    },
+    {
+      "id": "col-081",
+      "collocation": "derive pleasure from",
+      "type": "verb_noun",
+      "turkish_meaning": "zevk almak",
+      "example_sentence": "Creative artists often derive deep cognitive pleasure from intellectual problem solving.",
+      "topic_field": "psychology"
+    },
+    {
+      "id": "col-082",
+      "collocation": "determine factors",
+      "type": "verb_noun",
+      "turkish_meaning": "faktörleri belirlemek",
+      "example_sentence": "Statistical analysis isolated the primary factors determining patient longevity.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-083",
+      "collocation": "diminish importance",
+      "type": "verb_noun",
+      "turkish_meaning": "önemi azaltmak",
+      "example_sentence": "Digital automation does not diminish the importance of human critical empathy.",
+      "topic_field": "philosophy"
+    },
+    {
+      "id": "col-084",
+      "collocation": "discharge pollutants",
+      "type": "verb_noun",
+      "turkish_meaning": "kirletici madde salmak",
+      "example_sentence": "Factories are strictly prohibited from discharging chemical pollutants into waterways.",
+      "topic_field": "environment"
+    },
+    {
+      "id": "col-085",
+      "collocation": "disclose information",
+      "type": "verb_noun",
+      "turkish_meaning": "bilgi ifşa etmek",
+      "example_sentence": "Regulatory guidelines compel pharmaceutical entities to disclose clinical trial data.",
+      "topic_field": "law"
+    },
+    {
+      "id": "col-086",
+      "collocation": "dismiss an allegation",
+      "type": "verb_noun",
+      "turkish_meaning": "iddiyayı reddetmek",
+      "example_sentence": "The disciplinary committee dismissed the allegation due to complete lack of proof.",
+      "topic_field": "law"
+    },
+    {
+      "id": "col-087",
+      "collocation": "dispel myths",
+      "type": "verb_noun",
+      "turkish_meaning": "efsaneleri/yanılgıları çürütmek",
+      "example_sentence": "Scientific outreach is vital to dispel persistent vaccination myths in rural regions.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-088",
+      "collocation": "encounter obstacles",
+      "type": "verb_noun",
+      "turkish_meaning": "engellerle karşılaşmak",
+      "example_sentence": "Engineering teams encountered formidable subterranean obstacles during tunnel boring.",
+      "topic_field": "infrastructure"
+    },
+    {
+      "id": "col-089",
+      "collocation": "enhance performance",
+      "type": "verb_noun",
+      "turkish_meaning": "performansı artırmak",
+      "example_sentence": "Nutritional optimization can substantially enhance cognitive performance under fatigue.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-090",
+      "collocation": "establish relations",
+      "type": "verb_noun",
+      "turkish_meaning": "ilişkiler kurmak",
+      "example_sentence": "Neighbouring sovereign states established formal bilateral diplomatic relations.",
+      "topic_field": "governance"
+    },
+    {
+      "id": "col-091",
+      "collocation": "evoke memories",
+      "type": "verb_noun",
+      "turkish_meaning": "hatıraları canlandırmak",
+      "example_sentence": "Olfactory cues are renowned for their potent ability to evoke vivid childhood memories.",
+      "topic_field": "psychology"
+    },
+    {
+      "id": "col-092",
+      "collocation": "exceed expectations",
+      "type": "verb_noun",
+      "turkish_meaning": "beklentileri aşmak",
+      "example_sentence": "Fiscal returns from the wind turbine farm far exceeded initial corporate expectations.",
+      "topic_field": "energy"
+    },
+    {
+      "id": "col-093",
+      "collocation": "execute a plan",
+      "type": "verb_noun",
+      "turkish_meaning": "planı icra etmek",
+      "example_sentence": "The logistics battalion executed the relief evacuation plan with military precision.",
+      "topic_field": "logistics"
+    },
+    {
+      "id": "col-094",
+      "collocation": "exert authority",
+      "type": "verb_noun",
+      "turkish_meaning": "otorite kullanmak",
+      "example_sentence": "The maritime commission exerted legal authority to impound the hazardous cargo vessel.",
+      "topic_field": "law"
+    },
+    {
+      "id": "col-095",
+      "collocation": "exhaust resources",
+      "type": "verb_noun",
+      "turkish_meaning": "kaynakları tüketmek",
+      "example_sentence": "Rapid population expansion threatens to exhaust local groundwater aquifers.",
+      "topic_field": "environment"
+    },
+    {
+      "id": "col-096",
+      "collocation": "expand capacity",
+      "type": "verb_noun",
+      "turkish_meaning": "kapasiteyi genişletmek",
+      "example_sentence": "Metropolitan airports are investing billions to expand terminal passenger capacity.",
+      "topic_field": "transport"
+    },
+    {
+      "id": "col-097",
+      "collocation": "face consequences",
+      "type": "verb_noun",
+      "turkish_meaning": "sonuçlarıyla yüzleşmek",
+      "example_sentence": "Unscrupulous financial managers must inevitably face consequences under criminal statutes.",
+      "topic_field": "law"
+    },
+    {
+      "id": "col-098",
+      "collocation": "facilitate learning",
+      "type": "verb_noun",
+      "turkish_meaning": "öğrenmeyi kolaylaştırmak",
+      "example_sentence": "Interactive digital modules significantly facilitate autonomous second-language learning.",
+      "topic_field": "education"
+    },
+    {
+      "id": "col-099",
+      "collocation": "formulate a theory",
+      "type": "verb_noun",
+      "turkish_meaning": "teori oluşturmak",
+      "example_sentence": "Physicists worked collaboratively to formulate a unified theoretical model.",
+      "topic_field": "physics"
+    },
+    {
+      "id": "col-100",
+      "collocation": "fulfill obligations",
+      "type": "verb_noun",
+      "turkish_meaning": "yükümlülükleri yerine getirmek",
+      "example_sentence": "Contracting parties must fulfill their contractual obligations without unreasonable delay.",
+      "topic_field": "law"
+    },
+    {
+      "id": "col-101",
+      "collocation": "generate electricity",
+      "type": "verb_noun",
+      "turkish_meaning": "elektrik üretmek",
+      "example_sentence": "Geothermal power plants generate clean baseload electricity from volcanic subterranean steam.",
+      "topic_field": "energy"
+    },
+    {
+      "id": "col-102",
+      "collocation": "generate revenue",
+      "type": "verb_noun",
+      "turkish_meaning": "gelir yaratmak",
+      "example_sentence": "Urban congestion pricing schemes generate valuable revenue for municipal transit.",
+      "topic_field": "economics"
+    },
+    {
+      "id": "col-103",
+      "collocation": "halt progress",
+      "type": "verb_noun",
+      "turkish_meaning": "ilerlemeyi durdurmak",
+      "example_sentence": "Political factionalism threatens to halt legislative progress on pension reform.",
+      "topic_field": "governance"
+    },
+    {
+      "id": "col-104",
+      "collocation": "harness energy",
+      "type": "verb_noun",
+      "turkish_meaning": "enerjiden yararlanmak",
+      "example_sentence": "Engineers designed offshore kinetic turbines to harness tidal energy along sea straits.",
+      "topic_field": "energy"
+    },
+    {
+      "id": "col-105",
+      "collocation": "impose restrictions",
+      "type": "verb_noun",
+      "turkish_meaning": "kısıtlamalar getirmek",
+      "example_sentence": "Epidemiologists advised authorities to impose travel restrictions during peak transmission.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-106",
+      "collocation": "initiate a project",
+      "type": "verb_noun",
+      "turkish_meaning": "proje başlatmak",
+      "example_sentence": "The consortium initiated a multi-year project to digitize medieval monastic manuscripts.",
+      "topic_field": "history"
+    },
+    {
+      "id": "col-107",
+      "collocation": "instigate conflict",
+      "type": "verb_noun",
+      "turkish_meaning": "çatışmayı kışkırtmak",
+      "example_sentence": "Seditious rhetoric was calculated to instigate sectarian conflict between border towns.",
+      "topic_field": "governance"
+    },
+    {
+      "id": "col-108",
+      "collocation": "interpret data",
+      "type": "verb_noun",
+      "turkish_meaning": "veriyi yorumlamak",
+      "example_sentence": "Biostatisticians must carefully interpret longitudinal data to prevent false causal links.",
+      "topic_field": "science"
+    },
+    {
+      "id": "col-109",
+      "collocation": "justify actions",
+      "type": "verb_noun",
+      "turkish_meaning": "eylemleri haklı çıkarmak",
+      "example_sentence": "Corporate executives attempted to justify their actions citing intense market competition.",
+      "topic_field": "business"
+    },
+    {
+      "id": "col-110",
+      "collocation": "maintain standards",
+      "type": "verb_noun",
+      "turkish_meaning": "standartları korumak",
+      "example_sentence": "Accredited medical academies must maintain rigorous clinical instruction standards.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-111",
+      "collocation": "manifest symptoms",
+      "type": "verb_noun",
+      "turkish_meaning": "belirtiler göstermek",
+      "example_sentence": "Infected hosts may not manifest clinical symptoms for up to three weeks.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-112",
+      "collocation": "maximize efficiency",
+      "type": "verb_noun",
+      "turkish_meaning": "verimliliği en üst düzeye çıkarmak",
+      "example_sentence": "Algorithmic routing minimizes idling and maximizes logistical fleet efficiency.",
+      "topic_field": "logistics"
+    },
+    {
+      "id": "col-113",
+      "collocation": "minimize risks",
+      "type": "verb_noun",
+      "turkish_meaning": "riskleri en aza indirmek",
+      "example_sentence": "Preoperative cardiovascular screening is designed to minimize surgical risks.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-114",
+      "collocation": "modify behavior",
+      "type": "verb_noun",
+      "turkish_meaning": "davranışı değiştirmek",
+      "example_sentence": "Behavioral cognitive therapy helps obsessive patients modify maladaptive behavior.",
+      "topic_field": "psychology"
+    },
+    {
+      "id": "col-115",
+      "collocation": "monitor progress",
+      "type": "verb_noun",
+      "turkish_meaning": "ilerlemeyi izlemek",
+      "example_sentence": "Satellite radar systems monitor glacial retreat progress across the Antarctic ice shelf.",
+      "topic_field": "environment"
+    },
+    {
+      "id": "col-116",
+      "collocation": "obtain permission",
+      "type": "verb_noun",
+      "turkish_meaning": "izin almak",
+      "example_sentence": "Archaeologists must obtain formal permission from state ministries prior to surveying.",
+      "topic_field": "history"
+    },
+    {
+      "id": "col-117",
+      "collocation": "occupy a position",
+      "type": "verb_noun",
+      "turkish_meaning": "konum işgal etmek",
+      "example_sentence": "Women increasingly occupy prominent leadership positions within executive boards.",
+      "topic_field": "society"
+    },
+    {
+      "id": "col-118",
+      "collocation": "overcome obstacles",
+      "type": "verb_noun",
+      "turkish_meaning": "engelleri aşmak",
+      "example_sentence": "Aeronautical pioneers had to overcome daunting aerodynamic obstacles to exceed sound.",
+      "topic_field": "science"
+    },
+    {
+      "id": "col-119",
+      "collocation": "penetrate the market",
+      "type": "verb_noun",
+      "turkish_meaning": "pazara girmek",
+      "example_sentence": "Low-cost renewable components enabled solar firms to rapidly penetrate the domestic market.",
+      "topic_field": "economics"
+    },
+    {
+      "id": "col-120",
+      "collocation": "perceive a threat",
+      "type": "verb_noun",
+      "turkish_meaning": "tehdit algılamak",
+      "example_sentence": "Sensory cortex structures rapidly perceive threat cues before conscious awareness.",
+      "topic_field": "psychology"
+    },
+    {
+      "id": "col-121",
+      "collocation": "perform an operation",
+      "type": "verb_noun",
+      "turkish_meaning": "ameliyat/operasyon yapmak",
+      "example_sentence": "Surgeons performed a delicate minimally invasive neurological operation.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-122",
+      "collocation": "perpetuate injustice",
+      "type": "verb_noun",
+      "turkish_meaning": "adaletsizliği sürdürmek",
+      "example_sentence": "Discriminatory bail practices perpetuate social injustice against marginalized defendants.",
+      "topic_field": "law"
+    },
+    {
+      "id": "col-123",
+      "collocation": "preserve heritage",
+      "type": "verb_noun",
+      "turkish_meaning": "mirası korumak",
+      "example_sentence": "Restoration architects utilize laser scanning to preserve architectural heritage.",
+      "topic_field": "history"
+    },
+    {
+      "id": "col-124",
+      "collocation": "prevent disease",
+      "type": "verb_noun",
+      "turkish_meaning": "hastalığı önlemek",
+      "example_sentence": "Sanitation infrastructure is universally acknowledged as the most potent tool to prevent disease.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-125",
+      "collocation": "prohibit discrimination",
+      "type": "verb_noun",
+      "turkish_meaning": "ayrımcılığı yasaklamak",
+      "example_sentence": "International labor compacts strictly prohibit racial and religious discrimination.",
+      "topic_field": "law"
+    },
+    {
+      "id": "col-126",
+      "collocation": "prompt action",
+      "type": "verb_noun",
+      "turkish_meaning": "eyleme sevk etmek",
+      "example_sentence": "Severe heatwave mortality prompted immediate action from municipal emergency desks.",
+      "topic_field": "governance"
+    },
+    {
+      "id": "col-127",
+      "collocation": "pursue a career",
+      "type": "verb_noun",
+      "turkish_meaning": "kariyer peşinde koşmak",
+      "example_sentence": "Fellowship stipends incentivize graduate students to pursue a career in stem cell biology.",
+      "topic_field": "education"
+    },
+    {
+      "id": "col-128",
+      "collocation": "receive recognition",
+      "type": "verb_noun",
+      "turkish_meaning": "takdir/itibar görmek",
+      "example_sentence": "The indigenous botanist received global recognition for mapping medicinal jungle flora.",
+      "topic_field": "science"
+    },
+    {
+      "id": "col-129",
+      "collocation": "reconcile differences",
+      "type": "verb_noun",
+      "turkish_meaning": "farklılıkları uzlaştırmak",
+      "example_sentence": "Mediators worked tirelessly to reconcile political differences between treaty signatories.",
+      "topic_field": "governance"
+    },
+    {
+      "id": "col-130",
+      "collocation": "recover from illness",
+      "type": "verb_noun",
+      "turkish_meaning": "hastalıktan iyileşmek",
+      "example_sentence": "Nutritional therapy assists frail geriatric patients to recover from severe pneumonia.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-131",
+      "collocation": "reduce emissions",
+      "type": "verb_noun",
+      "turkish_meaning": "emisyonları azaltmak",
+      "example_sentence": "Transitioning to electrified transit is essential to reduce urban greenhouse gas emissions.",
+      "topic_field": "environment"
+    },
+    {
+      "id": "col-132",
+      "collocation": "regulate temperatures",
+      "type": "verb_noun",
+      "turkish_meaning": "sıcaklığı düzenlemek",
+      "example_sentence": "Oceanic thermohaline circulation serves to regulate atmospheric temperatures globally.",
+      "topic_field": "environment"
+    },
+    {
+      "id": "col-133",
+      "collocation": "relieve pain",
+      "type": "verb_noun",
+      "turkish_meaning": "ağrıyı dindirmek",
+      "example_sentence": "Modern analgesic patches deliver controlled doses to relieve chronic neuropathic pain.",
+      "topic_field": "health"
+    },
+    {
+      "id": "col-134",
+      "collocation": "remedy a situation",
+      "type": "verb_noun",
+      "turkish_meaning": "durumu düzeltmek",
+      "example_sentence": "Emergency economic subsidies were dispersed to remedy the worsening agrarian crisis.",
+      "topic_field": "economics"
+    },
+    {
+      "id": "col-135",
+      "collocation": "resist temptation",
+      "type": "verb_noun",
+      "turkish_meaning": "cazibeye direnmek",
+      "example_sentence": "Psychological resilience correlates with childhood ability to resist immediate gratification.",
+      "topic_field": "psychology"
+    },
+    {
+      "id": "col-136",
+      "collocation": "restore confidence",
+      "type": "verb_noun",
+      "turkish_meaning": "güveni tazelemek",
+      "example_sentence": "Auditing the banking system helped restore investor confidence following the crash.",
+      "topic_field": "economics"
+    },
+    {
+      "id": "col-137",
+      "collocation": "retain information",
+      "type": "verb_noun",
+      "turkish_meaning": "bilgiyi akılda tutmak",
+      "example_sentence": "Spaced repetition flashcards demonstrably help learners retain vocabulary information.",
+      "topic_field": "education"
+    },
+    {
+      "id": "col-138",
+      "collocation": "reveal a secret",
+      "type": "verb_noun",
+      "turkish_meaning": "sırrı açığa çıkarmak",
+      "example_sentence": "Declassified intelligence archives revealed previously hidden Cold War diplomatic manoeuvres.",
+      "topic_field": "history"
+    },
+    {
+      "id": "col-139",
+      "collocation": "revoke a license",
+      "type": "verb_noun",
+      "turkish_meaning": "ruhsatı iptal etmek",
+      "example_sentence": "The environmental inspectorate revoked the facility's toxic discharge license.",
+      "topic_field": "law"
+    },
+    {
+      "id": "col-140",
+      "collocation": "satisfy criteria",
+      "type": "verb_noun",
+      "turkish_meaning": "kriterleri karşılamak",
+      "example_sentence": "Clinical candidates must strictly satisfy predetermined inclusion criteria.",
+      "topic_field": "science"
+    },
+    {
+      "id": "col-141",
+      "collocation": "secure funding",
+      "type": "verb_noun",
+      "turkish_meaning": "fon/ödenek sağlamak",
+      "example_sentence": "The astrophysics laboratory secured substantial research funding from the space agency.",
+      "topic_field": "astronomy"
+    },
+    {
+      "id": "col-142",
+      "collocation": "seek asylum",
+      "type": "verb_noun",
+      "turkish_meaning": "sığınma talep etmek",
+      "example_sentence": "Thousands fleeing persecution arrived at international frontiers seeking political asylum.",
+      "topic_field": "society"
+    },
+    {
+      "id": "col-143",
+      "collocation": "settle a dispute",
+      "type": "verb_noun",
+      "turkish_meaning": "anlaşmazlığı çözmek",
+      "example_sentence": "Arbitration tribunals offer neutral venues to settle international trade disputes.",
+      "topic_field": "law"
+    },
+    {
+      "id": "col-144",
+      "collocation": "shed light on",
+      "type": "verb_noun",
+      "turkish_meaning": "ışık tutmak",
+      "example_sentence": "Genomic sequencing has shed light on human migration routes across prehistoric continents.",
+      "topic_field": "anthropology"
+    },
+    {
+      "id": "col-145",
+      "collocation": "simulate conditions",
+      "type": "verb_noun",
+      "turkish_meaning": "koşulları taklit etmek/simüle etmek",
+      "example_sentence": "Hyperbaric chambers simulate extreme atmospheric conditions for astronaut training.",
+      "topic_field": "technology"
+    },
+    {
+      "id": "col-146",
+      "collocation": "spark controversy",
+      "type": "verb_noun",
+      "turkish_meaning": "tartışma kıvılcımı çakmak",
+      "example_sentence": "The experimental genetic clone sparked heated philosophical and ethical controversy.",
+      "topic_field": "ethics"
+    },
+    {
+      "id": "col-147",
+      "collocation": "stimulate growth",
+      "type": "verb_noun",
+      "turkish_meaning": "büyümeyi canlandırmak",
+      "example_sentence": "Targeted low-interest small-business credits stimulate regional entrepreneurial growth.",
+      "topic_field": "economics"
+    },
+    {
+      "id": "col-148",
+      "collocation": "strengthen ties",
+      "type": "verb_noun",
+      "turkish_meaning": "bağları güçlendirmek",
+      "example_sentence": "Cultural and academic exchange programs strengthen historical bilateral diplomatic ties.",
+      "topic_field": "society"
+    },
+    {
+      "id": "col-149",
+      "collocation": "substantiate a claim",
+      "type": "verb_noun",
+      "turkish_meaning": "iddiyayı kanıtlamak",
+      "example_sentence": "The claimant failed to provide empirical forensic evidence to substantiate his claim.",
+      "topic_field": "law"
+    },
+    {
+      "id": "col-150",
+      "collocation": "suppress dissent",
+      "type": "verb_noun",
+      "turkish_meaning": "muhalefeti bastırmak",
+      "example_sentence": "Authoritarian regimes frequently deploy digital censorship to suppress political dissent.",
+      "topic_field": "governance"
+    },
+    {
+      "id": "col-151",
+      "collocation": "surpass expectations",
+      "type": "verb_noun",
+      "turkish_meaning": "beklentileri geride bırakmak",
+      "example_sentence": "Crop yields under smart robotic irrigation surpassed all initial agricultural expectations.",
+      "topic_field": "agriculture"
+    },
+    {
+      "id": "col-152",
+      "collocation": "sustain injuries",
+      "type": "verb_noun",
+      "turkish_meaning": "yaralanmak",
+      "example_sentence": "Occupants wearing dynamic seatbelts sustained significantly milder vehicle crash injuries.",
+      "topic_field": "transport"
+    },
+    {
+      "id": "col-153",
+      "collocation": "terminate a contract",
+      "type": "verb_noun",
+      "turkish_meaning": "sözleşmeyi feshetmek",
+      "example_sentence": "Breach of confidentiality provisions empowers either party to terminate the contract.",
+      "topic_field": "law"
+    },
+    {
+      "id": "col-154",
+      "collocation": "tolerate ambiguity",
+      "type": "verb_noun",
+      "turkish_meaning": "belirsizliğe tahammül etmek",
+      "example_sentence": "Effective organizational executives must possess the psychological ability to tolerate ambiguity.",
+      "topic_field": "management"
+    },
+    {
+      "id": "col-155",
+      "collocation": "trigger an alarm",
+      "type": "verb_noun",
+      "turkish_meaning": "alarmı tetiklemek",
+      "example_sentence": "Abnormal infrared signatures automatically trigger an alert at the early warning station.",
+      "topic_field": "technology"
+    },
+    {
+      "id": "col-156",
+      "collocation": "undertake a journey",
+      "type": "verb_noun",
+      "turkish_meaning": "yolculuğa çıkmak",
+      "example_sentence": "Migratory arctic terns undertake a perilous polar journey spanning thousands of leagues.",
+      "topic_field": "biology"
+    },
+    {
+      "id": "col-157",
+      "collocation": "unravel a mystery",
+      "type": "verb_noun",
+      "turkish_meaning": "gizem çözmek",
+      "example_sentence": "Criminologists and forensic geneticists worked in unison to unravel the cold case mystery.",
+      "topic_field": "law"
+    },
+    {
+      "id": "col-158",
+      "collocation": "validate a theory",
+      "type": "verb_noun",
+      "turkish_meaning": "teoriyi doğrulamak",
+      "example_sentence": "Observational detection of gravitational waves served to validate Einstein's century-old theory.",
+      "topic_field": "physics"
+    },
+    {
+      "id": "col-159",
+      "collocation": "violate a law",
+      "type": "verb_noun",
+      "turkish_meaning": "yasayı ihlal etmek",
+      "example_sentence": "Industrial dumping into maritime sanctuaries directly violates international maritime law.",
+      "topic_field": "law"
+    },
+    {
+      "id": "col-160",
+      "collocation": "warrant investigation",
+      "type": "verb_noun",
+      "turkish_meaning": "soruşturma gerektirmek",
+      "example_sentence": "Unexplained financial discrepancies at the foundation clearly warrant an independent investigation.",
+      "topic_field": "law"
+    }
+  ]
+}

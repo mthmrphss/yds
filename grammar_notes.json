@@ -1,0 +1,53 @@
+{
+  "version": "1.0",
+  "topics": [
+    {
+      "id": "gt-001",
+      "title": "Tense Sequence & Time Anchors",
+      "title_tr": "Zaman Uyumu ve Zaman Çapaları",
+      "category": "tenses",
+      "priority_rank": 1,
+      "content_md": "## Zaman Uyumu (Tense Sequence)\n\nYDS'de gramer sorularının (7-16) temel omurgasını zaman uyumu oluşturur.\n\n### 1. Zaman Çapası Tespiti\n- Cümlede açık bir geçmiş tarih (örn: *in 1945, last century, during the war, until recently*) varsa **Simple Past (V2)** veya **Past Perfect (had + V3)** aranır.\n- *since, for, over the past decade, recently, up to now* gibi ifadeler **Present Perfect (have/has + V3)** veya **Present Perfect Continuous** gerektirir.\n- Bilimsel gerçekler, tanımlar ve genel doğrular **Simple Present (V1 / Vs)** ile ifade edilir.\n\n### 2. Altın Kural: By the Time\n- `By the time + Simple Past (V2) , S + Past Perfect (had + V3)`\n  - *By the time firefighters arrived, the blaze had already engulfed the building.*\n- `By the time + Simple Present (V1) , S + Future Perfect (will have + V3)`\n  - *By the time researchers complete the survey next year, demographics will have changed.*\n\n### 3. Zaman Bağlaçlarında \"Will\" Yasağı\n*when, while, before, after, until, once, as soon as, by the time* bağlaçlarının hemen arkasındaki yan cümlede gelecek zaman kastedilse bile **WILL / WOULD KULLANILMAZ!** Bunun yerine Simple Present veya Present Perfect kullanılır:\n- Yanlış: *When the vaccine will be ready...*\n- Doğru: *When the vaccine is ready, distribution will begin.*",
+      "tips": [
+        "İki geçmiş olay varsa, daha önce tamamlanan mutlaka had + V3 (Past Perfect) alır.",
+        "Zaman bağlacı olan cümleye asla doğrudan 'will' getirme.",
+        "Since + Simple Past, Ana Cümle + Present Perfect kalıbını unutma."
+      ],
+      "common_traps": [
+        "Tek bir geçmiş olay varken Past Perfect kullanmak (tek olayda Simple Past yeterlidir).",
+        "'By 2030' görünce Future Simple (will) seçmek — 'by + gelecek tarih' Future Perfect (will have + V3) ister."
+      ]
+    },
+    {
+      "id": "gt-002",
+      "title": "Active vs Passive Voice & Reduction",
+      "title_tr": "Etken vs Edilgen Yapılar ve Kısaltmalar",
+      "category": "voice",
+      "priority_rank": 2,
+      "content_md": "## Active vs Passive & Participle Reductions\n\nYDS'de cümlelerin akademik olması sebebiyle eylemi yapan değil, eylemden etkilenen nesne öne çıkar.\n\n### 1. Pasif Formüller\n- Simple Present: `is / are + V3`\n- Simple Past: `was / were + V3`\n- Present Perfect: `has / have been + V3`\n- Past Perfect: `had been + V3`\n- Modals: `modal + be + V3` (*can be treated, should be considered*)\n\n### 2. Sıfat Cümleciği Kısaltmaları (Relative Reductions)\n- **Aktif Kısaltma (V-ing):**\n  - *The scientists who investigate the ocean* → *The scientists **investigating** the ocean*\n- **Pasif Kısaltma (V3):**\n  - *The method which was used in the laboratory* → *The method **used** in the laboratory*\n- **Tamamlanmış Eylem Kısaltması (Having + V3 / Having been + V3):**\n  - *Having completed the experiment, the team published the paper.*",
+      "tips": [
+        "Boşluktan sonra nesne (Object) yoksa veya 'by + fail' geliyorsa pasif yapı aranmalıdır.",
+        "Virgülden sonra gelen kısaltmalarda cümlenin öznesinin fiili yapıp yapmadığını test et."
+      ],
+      "common_traps": [
+        "Intransitive (geçişsiz) fiilleri pasif yapmak (Örn: *occur, happen, exist, die* pasif ALMAZ).",
+        "Aktif kısaltma (V-ing) ile pasif kısaltmayı (V3) karıştırmak."
+      ]
+    },
+    {
+      "id": "gt-003",
+      "title": "Connectors: Contrast vs Concession",
+      "title_tr": "Bağlaçlar: Zıtlık ve Ödün Ayrımı",
+      "category": "connectors",
+      "priority_rank": 1,
+      "content_md": "## Zıtlık (Contrast) ve Ödün (Concession)\n\nÖSYM bağlaç sorularında en çok zıtlık mantığını test eder.\n\n### 1. Beklentinin Tersini Bildirenler (Concession)\nBir engel vardır ama ona rağmen sonuç gerçekleşir:\n- **Cümle alanlar (S + V):** *Although, Even though, Though, Much as, While*\n- **İsim alanlar (Noun / V-ing):** *Despite, In spite of, Notwithstanding, For all*\n\n### 2. Doğrudan Kıyas Yapanlar (Contrast)\nİki taraf arasında fark ortaya koyar:\n- *Whereas, While, In contrast to, Unlike*\n- *However, Nevertheless, On the other hand, By contrast*\n\n### 3. Soru Çözüm Taktiği\n1. Boşluktan sonra tam cümle (Özne + Yüklem) mi var, yoksa sadece isim tamlaması mı var?\n   - Cümle varsa: *Although, While, Because*\n   - İsim varsa: *Despite, Due to, In spite of*\n2. Anlam pozitiften negatife mi geçiyor, yoksa sebep-sonuç mu kuruluyor?",
+      "tips": [
+        "Despite'tan sonra 'that' gelmedikçe (despite the fact that) asla cümle gelmez.",
+        "Although ve However asla aynı cümlede birlikte kullanılmaz."
+      ],
+      "common_traps": [
+        "Çeviri yaparken 'rağmen' ile 'oysa ki' bağlaçlarını birbirinin yerine koymak."
+      ]
+    }
+  ]
+}
