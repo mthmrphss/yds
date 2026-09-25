@@ -16,4 +16,4 @@ yayınevi kitapçıklarından alınmış soru içermez. Çıkmış sorular yaln�
 `yds_pdf/scripts/original/` altındaki dosyalara soru ekleyip `scripts/build_all.sh` çalıştırın,
 `build_question_bank.py` içindeki sürümü artırın ve bu depoyu commit + push edin.
 
-Şu an: 489 soru (cloze: 45, dialogue: 44, grammar: 49, irrelevant_sentence: 45, paragraph_completion: 45, reading: 48, restatement: 44, sentence_completion: 48, translation_en_tr: 35, translation_tr_en: 36, vocabulary: 50).
+Şu an: 550 soru (cloze: 45, dialogue: 51, grammar: 59, irrelevant_sentence: 45, paragraph_completion: 45, reading: 48, restatement: 51, sentence_completion: 56, translation_en_tr: 45, translation_tr_en: 45, vocabulary: 60).

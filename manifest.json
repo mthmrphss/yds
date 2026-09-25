@@ -1,22 +1,22 @@
 {
-  "version": "3.3",
+  "version": "3.4",
   "min_app_version": "1.0.0",
   "updated_at": "2026-09-25",
-  "changelog": "489 özgün YDS tarzı soru (11 soru tipi, kolay/orta/zor).",
+  "changelog": "550 özgün YDS tarzı soru (11 soru tipi, kolay/orta/zor).",
   "counts": {
-    "original_questions": 489,
+    "original_questions": 550,
     "by_type": {
       "cloze": 45,
-      "dialogue": 44,
-      "translation_en_tr": 35,
-      "grammar": 49,
+      "dialogue": 51,
+      "translation_en_tr": 45,
+      "grammar": 59,
       "irrelevant_sentence": 45,
       "paragraph_completion": 45,
       "reading": 48,
-      "restatement": 44,
-      "sentence_completion": 48,
-      "translation_tr_en": 36,
-      "vocabulary": 50
+      "restatement": 51,
+      "sentence_completion": 56,
+      "translation_tr_en": 45,
+      "vocabulary": 60
     }
   },
   "endpoints": {
