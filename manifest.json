@@ -1,15 +1,25 @@
 {
-  "version": "1.1",
+  "version": "3.3",
   "min_app_version": "1.0.0",
-  "updated_at": "2026-09-24",
-  "changelog": "Soru bankası temizlendi: tekrar eden sorular ve çakışan ID'ler kaldırıldı, okuma/cloze soruları düzeltildi.",
+  "updated_at": "2026-09-25",
+  "changelog": "489 özgün YDS tarzı soru (11 soru tipi, kolay/orta/zor).",
+  "counts": {
+    "original_questions": 489,
+    "by_type": {
+      "cloze": 45,
+      "dialogue": 44,
+      "translation_en_tr": 35,
+      "grammar": 49,
+      "irrelevant_sentence": 45,
+      "paragraph_completion": 45,
+      "reading": 48,
+      "restatement": 44,
+      "sentence_completion": 48,
+      "translation_tr_en": 36,
+      "vocabulary": 50
+    }
+  },
   "endpoints": {
-    "questions": "questions.json",
-    "vocabulary": "vocabulary.json",
-    "grammar": "grammar_notes.json",
-    "connectors": "connectors.json",
-    "collocations": "collocations.json",
-    "phrasal_verbs": "phrasal_verbs.json",
-    "exam_strategies": "exam_strategies.json"
+    "questions": "questions.json"
   }
 }

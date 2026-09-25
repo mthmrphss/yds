@@ -1,33 +1,19 @@
-# YDS Hazırlayıcı - Uzaktan Müfredat & Soru Bankası Havuzu
+# YDS Hazırlayıcı - Uzaktan Soru Deposu
 
-Bu depo, **YDS Hazırlayıcı** mobil uygulamasının uzaktan soru, kelime, eşdizim ve konu anlatımı güncellemelerini çeken resmi veri deposudur.
+Bu depo, **YDS Hazırlayıcı** uygulamasının uzaktan güncellenen **özgün** sorularını barındırır.
+Sorular YDS/YÖKDİL formatında (11 soru tipi, kolay/orta/zor) uygulama için yazılmıştır; ÖSYM veya
+yayınevi kitapçıklarından alınmış soru içermez. Çıkmış sorular yalnızca uygulamanın içinde bulunur.
 
-Uygulama, her açılışta veya **Ayarlar -> "Güncellemeleri Şimdi Kontrol Et"** tıklandığında bu depodaki `manifest.json` dosyasını kontrol eder.
+## Nasıl çalışır?
 
----
+1. Uygulama açılışta veya **Ayarlar → Güncellemeleri Kontrol Et** ile `manifest.json` dosyasını okur.
+2. `version`, uygulamadaki sürümden büyükse `endpoints.questions` dosyasını indirir.
+3. İndirilen dosya yalnızca özgün soruları günceller: yeni sorular eklenir, çıkarılanlar silinir,
+   kullanıcının cevap geçmişi korunur. Çıkmış sorulara dokunulmaz.
 
-## 📂 Dosya Yapısı
+## Yeni soru eklemek
 
-- `manifest.json`: Versiyon kontrolü, son güncelleme tarihi ve dosya eşlemeleri.
-- `questions.json`: 220+ Akademik YDS soru bankası (5 seçenek, çözüm açıklamaları ve çeldirici analizleri).
-- `vocabulary.json`: 800+ Akademik YDS kelime havuzu (tanımlar, eşanlamlılar, örnek cümleler ve SM-2 aralıklı tekrar parametreleri).
-- `connectors.json`: 45+ Mantıksal bağlaç tablosu (Zıtlık, Sebep-Sonuç, Ödün, vb.).
-- `collocations.json`: 160 Akademik eşdizim (Fiil + İsim, Sıfat + İsim).
-- `phrasal_verbs.json`: 110 Sık çıkan phrasal verb ve resmi akademik eş anlamlıları.
-- `grammar_notes.json`: Akademik gramer konu anlatımları, ipuçları ve ÖSYM tuzakları.
-- `exam_strategies.json`: 4 Adımlı Çözüm Rutini ve 180 Dk Zaman Yönetimi kuralları.
+`yds_pdf/scripts/original/` altındaki dosyalara soru ekleyip `scripts/build_all.sh` çalıştırın,
+`build_question_bank.py` içindeki sürümü artırın ve bu depoyu commit + push edin.
 
----
-
-## 🔄 Yeni Soru veya Kelime Nasıl Eklenir?
-
-1. `questions.json` veya `vocabulary.json` dosyasını açıp listenin sonuna yeni sorunuzu / kelimenizi ekleyin.
-2. `manifest.json` dosyasındaki **`version`** değerini artırın:
-   ```json
-   "version": "1.1",
-   "updated_at": "2026-10-01",
-   "changelog": "50 yeni Cümle Tamamlama ve Okuma Parçası sorusu eklendi."
-   ```
-3. Değişiklikleri `git commit` ve `git push` ile repoya gönderin.
-
-> **Tebrikler!** APK'yı yüklemiş olan tüm kullanıcılar uygulamayı açtıklarında yeni soruları otomatik olarak telefonlarına indirmiş olacaktır. Kullanıcıların daha önce çözdüğü deneme ve kelime ezber geçmişleri korunur.
+Şu an: 489 soru (cloze: 45, dialogue: 44, grammar: 49, irrelevant_sentence: 45, paragraph_completion: 45, reading: 48, restatement: 44, sentence_completion: 48, translation_en_tr: 35, translation_tr_en: 36, vocabulary: 50).
