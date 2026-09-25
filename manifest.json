@@ -1,8 +1,8 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "min_app_version": "1.0.0",
   "updated_at": "2026-09-24",
-  "changelog": "İlk resmi YDS akademik soru bankası, kelimeler, bağlaçlar ve konu anlatımları.",
+  "changelog": "Soru bankası temizlendi: tekrar eden sorular ve çakışan ID'ler kaldırıldı, okuma/cloze soruları düzeltildi.",
   "endpoints": {
     "questions": "questions.json",
     "vocabulary": "vocabulary.json",

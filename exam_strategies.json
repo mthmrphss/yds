@@ -1,32 +1,85 @@
 {
-  "version": "1.0",
+  "version": "1.1",
+  "source": "sistem_kurulum.md §12.4 (YDS_eYDS_synthesis_2022_2025.md Bölüm 9, 10, 12)",
   "universal_routine": {
     "title": "4 Adımlı Evrensel Çözüm Rutini",
     "steps": [
       {
         "step": 1,
-        "name": "Çapa Bul (Anchor)",
-        "desc": "Cümledeki zaman zarfını, bağlacı veya özne/nesne ilişkisini tespit et."
+        "name": "Görevi sınıflandır",
+        "desc": "Kelime mi, tense mi, connector mı, referans mı, çıkarım mı?"
       },
       {
         "step": 2,
-        "name": "Yapı Çöz (Structure)",
-        "desc": "Aktif/Pasif durumunu, tekil/çoğul uyumunu ve zaman eksenini belirle."
+        "name": "Zorunlu kısıtlamayı bul",
+        "desc": "Zaman işareti, edat, cümle sınırı, karşıtlık işareti, özne, gerekli sözcük türü."
       },
       {
         "step": 3,
-        "name": "Çeldirici Ele (Elimination)",
-        "desc": "Aşırı genelleme yapan (all, never), bağlam dışı veya zamansız şıkları ele."
+        "name": "Seçmeden önce ele",
+        "desc": "Gramer, anlam, kayıt, kutupluluk veya söylem mantığına uymayan seçenekleri çıkar."
       },
       {
         "step": 4,
-        "name": "Doğrula (Verify)",
-        "desc": "Doğru şıkkı yerine koyup cümlenin anlam bütünlüğünü kontrol et."
+        "name": "Tamamlanmış cümleyi tekrar oku",
+        "desc": "Doğru cevap sadece boşlukta değil, bütün cümlede/paragrafta çalışmalı."
       }
     ]
   },
   "time_management": {
-    "title": "Yeşil / Sarı / Kırmızı Zaman Yönetimi Sistemi (180 Dakika)",
+    "title": "Yeşil / Sarı / Kırmızı Zaman Yönetimi",
+    "system": [
+      {
+        "zone": "green",
+        "name": "Yeşil",
+        "rule": "Hemen cevapla ve geç — kolay kelime/gramer: 30-60 saniye"
+      },
+      {
+        "zone": "yellow",
+        "name": "Sarı",
+        "rule": "Kısa analizden sonra muhtemel cevabı işaretle, sonra dön — zor gramer: 90 saniye"
+      },
+      {
+        "zone": "red",
+        "name": "Kırmızı",
+        "rule": "Uzun tekrar okuma veya belirsiz kelime araması gerektiriyorsa geçici olarak atla — 2 dakikayı aşmasın"
+      }
+    ],
+    "suggested_allocation": [
+      {
+        "section": "Kelime",
+        "minutes": "8-10 dk"
+      },
+      {
+        "section": "Gramer",
+        "minutes": "12-15 dk"
+      },
+      {
+        "section": "Cloze",
+        "minutes": "15-18 dk"
+      },
+      {
+        "section": "Cümle Tamamlama",
+        "minutes": "18-22 dk"
+      },
+      {
+        "section": "Çeviri",
+        "minutes": "12-15 dk"
+      },
+      {
+        "section": "Okuma",
+        "minutes": "55-65 dk"
+      },
+      {
+        "section": "Kısa bağlamsal (diyalog, restatement, paragraf, akış)",
+        "minutes": "20-25 dk"
+      },
+      {
+        "section": "Son kontrol",
+        "minutes": "10-15 dk"
+      }
+    ],
+    "warning": "Tek bir soruda ilk geçişte 2 dakikadan fazla harcama. Son kontrol bloğu ayır.",
     "zones": [
       {
         "zone": "Yeşil Bölge",
@@ -48,26 +101,305 @@
       }
     ]
   },
-  "question_type_tactics": [
+  "tactic_sections": [
     {
-      "type": "vocabulary",
-      "name": "Kelime Soruları",
-      "tactic": "Önce boşluğun gerektirdiği sözcük türünü (isim, fiil, sıfat) tespit et. Ardından kelimenin aldığı edata veya nesneyle kurduğu eşdizime (collocation) bak."
+      "id": "vocab",
+      "title": "Kelime Çözüm Taktikleri",
+      "types": [
+        "vocabulary"
+      ],
+      "tactics": [
+        {
+          "title": "Önce boşluğun gramerini belirle",
+          "desc": "Anlam düşünmeden önce boşluğun isim, fiil, sıfat, zarf, infinitive, gerund veya edat öbeği gerektirip gerektirmediğini belirle. Bu tek başına 2-3 seçeneği eleyebilir.",
+          "example": "The ______ of the new policy was widely debated. → Boşluk 'The' ile başlıyor ve 'of' ile devam ediyor → İSİM gerekiyor."
+        },
+        {
+          "title": "Anlamsal yönü kontrol et",
+          "desc": "Bağlam artış mı azalış mı, neden mi sonuç mu, fayda mı zarar mı, kesinlik mi belirsizlik mi anlatıyor?"
+        },
+        {
+          "title": "Collocation'ı birim olarak düşün",
+          "desc": "\"pose a threat\", \"reach a conclusion\", \"conduct research\" gibi kalıpları bir birim olarak kaydet."
+        },
+        {
+          "title": "Seçenek ailesini karşılaştır",
+          "desc": "Olumlu/olumsuz, güçlü/zayıf, formal/informal, geçişli/geçişsiz, gerekli edat."
+        },
+        {
+          "title": "Nadir kelimeleri aşırı öğrenme",
+          "desc": "Geniş akademik taban, dar özel kelime listesinden daha değerli."
+        }
+      ]
     },
     {
-      "type": "grammar",
-      "name": "Gramer Soruları",
-      "tactic": "Seçeneklere bakmadan önce cümlede bir zaman çapası (time anchor) ara. Zaman bağlacı varsa 'will' engeline ve Past Perfect önceliğine dikkat et."
+      "id": "grammar",
+      "title": "Gramer Çözüm Taktikleri",
+      "types": [
+        "grammar"
+      ],
+      "tactics": [
+        {
+          "title": "Tense: Zaman çizelgesi oluştur",
+          "desc": "Olayları sırala: önceki geçmiş olay → sonraki geçmiş olay → şimdiki sonuç → devam eden eylem → gelecek son tarih. Ancak bu sıralama yapıldıktan sonra simple/continuous/perfect karşılaştır.",
+          "signal_words": {
+            "Simple Present": [
+              "every day",
+              "generally",
+              "usually",
+              "bilimsel gerçek"
+            ],
+            "Present Continuous": [
+              "now",
+              "at present",
+              "these days",
+              "currently"
+            ],
+            "Simple Past": [
+              "yesterday",
+              "last year",
+              "in 2012",
+              "ago",
+              "during the war"
+            ],
+            "Present Perfect": [
+              "since",
+              "for",
+              "recently",
+              "lately",
+              "so far",
+              "up to now"
+            ],
+            "Past Perfect": [
+              "by the time + past",
+              "before + past event",
+              "after + past event"
+            ],
+            "Future Perfect": [
+              "by 2030",
+              "by the end of",
+              "by the time + present"
+            ]
+          }
+        },
+        {
+          "title": "Connector: İlişkiyi çevir, kelimeyi değil",
+          "desc": "Cümleler arası ilişkiyi etiketle — neden, karşıtlık, ödün, sonuç, koşul, zaman, ekleme, karşılaştırma."
+        },
+        {
+          "title": "Edat: Kalıbı hatırla",
+          "desc": "Edatı bağımsız çevirme. \"be capable of doing\", \"contribute to\", \"distinguish between\", \"result in/from\" gibi kalıpları bütün olarak sakla."
+        },
+        {
+          "title": "Pasif: Alıcıyı belirle",
+          "desc": "Özne bir kurum, bulgu, malzeme veya süreç ise ve eylemi alıyorsa → pasif formları test et."
+        },
+        {
+          "title": "İndirgenmiş cümle: Zihinsel genişletme yap",
+          "desc": "\"the methods used\" → \"the methods that were used\"; \"researchers investigating\" → \"researchers who are investigating\"; \"having completed\" → \"after they had completed\"."
+        }
+      ]
     },
     {
-      "type": "reading",
-      "name": "Okuma Parçaları",
-      "tactic": "Önce 4 soru kökünü hızlıca tara, ne aradığını bilerek parçayı oku. Ana fikir (main idea) için ilk ve son cümlelere odaklan."
+      "id": "reading",
+      "title": "Okuma Çözüm Taktikleri",
+      "types": [
+        "reading"
+      ],
+      "tactics": [
+        {
+          "title": "4 geçişli okuma yöntemi",
+          "steps": [
+            "PARAGRAF HARİTASI: İlk cümle, son cümle, her paragrafın ilk/son satırını oku. Konuyu ve yönü belirle.",
+            "SİNYAL TARAMASI: Karşıtlık, neden, sonuç, örnek, zaman ve yazar değerlendirme işaretlerini işaretle.",
+            "SORU SINIFLANDIRMASI: Soru gerçek bilgi mi, çıkarım mı, amaç mı, tavır mı, başlık mı, kelime mi soruyor?",
+            "KANIT KONTROLÜ: Dünyada doğru ama parçada desteklenmeyen, çok dar, çok geniş veya ton olarak zıt seçenekleri ele."
+          ]
+        },
+        {
+          "title": "Soru kökünü taktiğe eşle",
+          "steps": [
+            "Detay: İlgili satıra dön, kapsamı doğrula",
+            "Çıkarım: Parçanın ifadeleri doğruysa ne olmalı?",
+            "Ana fikir: Tüm parçayı tek nötr cümlede özetle",
+            "En iyi başlık: Sadece bir örneği anlatan seçeneği reddet",
+            "Yazar tavrı: Değerlendirici sıfatlar, modal fiiller, eleştiri, övgü, dikkat ara",
+            "Bağlamda kelime: Kelimeyi her aday anlamla değiştir, yerel cümlede test et",
+            "Doğru bilgi: Metinsel destek talep et; genel dünya bilgisi yetmez"
+          ]
+        }
+      ]
     },
     {
-      "type": "translation",
-      "name": "Çeviri Soruları",
-      "tactic": "İngilizce cümlenin ana fiilini (Main Verb) ve öznesini bul. Şıklarda sadece ana fiilin doğru Türkçe karşılığına bakarak 3 şıkkı ilk 10 saniyede ele."
+      "id": "cloze",
+      "title": "Cloze ve Cümle Tamamlama Taktikleri",
+      "types": [
+        "cloze",
+        "sentence_completion"
+      ],
+      "tactics": [
+        {
+          "title": "Cloze adımları",
+          "steps": [
+            "İlk boşluğa cevap vermeden önce tüm bağlamı oku",
+            "Seçeneklere bakmadan önce eksik fonksiyonu tahmin et",
+            "Konuyu veya zaman çerçevesini belirleyen en kolay boşluğu önce doldur",
+            "Zamirleri, tekrarlanan isimleri, karşıtlık işaretlerini ve kronolojik işaretleri kullanarak cümleleri bağla",
+            "Tüm boşlukları doldurduktan sonra paragrafı baştan oku"
+          ]
+        },
+        {
+          "title": "Cümle tamamlama",
+          "desc": "Seçenekleri kapat ve devamın türünü tahmin et — örnek, sonuç, karşıtlık, neden, nitelendirme."
+        }
+      ]
+    },
+    {
+      "id": "elimination",
+      "title": "Eleme (Elimination) Taktikleri",
+      "types": [],
+      "tactics": [
+        {
+          "title": "Bir seçeneği şu durumlarda reddet",
+          "steps": [
+            "Gramer açısından imkânsız",
+            "Yanlış sözcük türü",
+            "Anlamsal olarak zıt",
+            "Çok güçlü veya çok zayıf",
+            "Çok geniş veya çok dar",
+            "Parçanın konusu dışında",
+            "Dünyada doğru ama metinde desteklenmiyor",
+            "Anahtar kelime eşleşmesine dayalı ama cümle mantığıyla tutarsız",
+            "Yanlış collocation veya edat ile yakın eş anlamlı"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "title": "Çeviri Çözüm Taktikleri",
+      "types": [
+        "translation_en_tr",
+        "translation_tr_en"
+      ],
+      "intro": "Çeviri soruları yapısal eşleştirmeyi ödüllendirir.",
+      "tactics": [
+        {
+          "title": "Yapıyı koru",
+          "steps": [
+            "Tense ve aspect'i koru",
+            "Aktif/pasif sesi koru",
+            "Kipsellik ve kesinlik derecesini koru",
+            "Neden/karşıtlık/koşulu koru",
+            "Olumsuzlama ve niceleyici kapsamını koru",
+            "Ana cümleyi belirle, sonra niteleyicileri çevir",
+            "Her kelimeyi bağımsız çevirme"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eyds",
+      "title": "e-YDS (Bilgisayar Tabanlı) Taktikleri",
+      "types": [],
+      "tactics": [
+        {
+          "title": "Ekran başında sınav",
+          "steps": [
+            "Haftada en az bir kez ekranda okuma parçası çöz",
+            "Paragraf pozisyonunu kaybetmeden kaydırma pratiği yap",
+            "Belirsiz soruları işaretlemek için tutarlı bir yöntem kullan",
+            "Parça ve soru arasında sürekli geçiş yapmaktan kaçın",
+            "Görünür zamanlayıcı ve sözlüksüz eğitim yap",
+            "İlk 5 dakikayı prova et — arayüz sınav süresini yemesin"
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "final_checklist": {
+    "title": "Sınav Öncesi Son Kontrol Listesi",
+    "groups": [
+      {
+        "title": "Kelime Kontrol",
+        "items": [
+          "İsim/fiil/sıfat/zarf fonksiyonunu anında tanımlayabiliyor muyum?",
+          "Kelimenin yaygın edatını biliyor muyum?",
+          "Kelimeyi olumsuz veya değerlendirici bağlamda tanıyabiliyor muyum?",
+          "Kayıt veya collocation ile yakın eş anlamlıları ayırt edebiliyor muyum?",
+          "Tanımadığım kelimeyi karşıtlık, örnek veya sonuçtan çıkarabilir miyim?"
+        ]
+      },
+      {
+        "title": "Tense Kontrol",
+        "items": [
+          "Zaman çapası nedir?",
+          "Hangi olay önce gerçekleşti?",
+          "Eylem tamamlanmış mı, devam eden mi, tekrarlanan mı, sonuç veren mi?",
+          "Özne aktif mi pasif mi?",
+          "'will'i engelleyen bir zaman cümlesi var mı?"
+        ]
+      },
+      {
+        "title": "Okuma Kontrol",
+        "items": [
+          "Parçanın kontrol edici iddiası nedir?",
+          "Hangi cümle kanıtı içeriyor?",
+          "Seçenek açık mı, çıkarılmış mı, çok geniş mi, çok dar mı, zıt mı?",
+          "Yazarın tonu nedir?",
+          "Kelime bu bağlamda aynı şeyi mi ifade ediyor?"
+        ]
+      },
+      {
+        "title": "Zaman Kontrol",
+        "items": [
+          "Tek bir erken soruda 2 dakikadan fazla mı harcıyorum?",
+          "Sonsuz tekrar okuma yerine kontrol için net bir işaret bıraktım mı?",
+          "Yapısal ipucu sorunu daha hızlı çözerken Türkçeye çeviriyor muyum?",
+          "En az bir tam okuma bloğunu tamamlayıp kontrol süresi bırakabilir miyim?"
+        ]
+      }
+    ]
+  },
+  "study_plan": {
+    "title": "Çalışma Programı (4 Fazlı Plan)",
+    "phases": [
+      {
+        "phase": 1,
+        "name": "Motor Kur",
+        "duration": "2-3 hafta",
+        "focus": "Tense sistemi + connector mantığı + edat defteri",
+        "daily_minimum": "20-30 kısa gramer sorusu"
+      },
+      {
+        "phase": 2,
+        "name": "Kelime Genişlet",
+        "duration": "4-6 hafta",
+        "focus": "Akademik kelime aileleri + collocation + phrasal verb",
+        "daily_minimum": "15 kelime + 5 collocation + 3 phrasal verb + 1 paragraf"
+      },
+      {
+        "phase": 3,
+        "name": "Entegre Et",
+        "duration": "4 hafta",
+        "focus": "Cloze + çeviri + okuma parçası + karma set",
+        "daily_minimum": "Haftada 2 cloze + 2 çeviri + 3 okuma + 1 tam sınav"
+      },
+      {
+        "phase": 4,
+        "name": "Simülasyon",
+        "duration": "2-3 hafta",
+        "focus": "180 dakika tam deneme + zayıf alan onarımı",
+        "daily_minimum": "7-10 günde 1 tam sınav + günlük zayıf alan pratiği"
+      }
+    ],
+    "spaced_repetition_rule": "Her kelime 1, 3, 7 ve 14 gün sonra tekrar edilmeli.",
+    "word_record_fields": [
+      "Sözcük türü",
+      "Yaygın partnerleri (collocation)",
+      "Zıt anlamlı veya karşıtı",
+      "Bir akademik bağlam",
+      "Bir türetilmiş form"
+    ]
+  }
 }
