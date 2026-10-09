@@ -1,7 +1,7 @@
 {
-  "version": "3.7",
+  "version": "3.8",
   "min_app_version": "1.0.0",
-  "updated_at": "2026-10-08",
+  "updated_at": "2026-10-09",
   "changelog": "646 özgün YDS tarzı soru (11 soru tipi, kolay/orta/zor).",
   "counts": {
     "original_questions": 646,
